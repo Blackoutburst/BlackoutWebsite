@@ -49,7 +49,7 @@
         <img src="img/ps.png" class="project-img">
     </a>
 
-    <p>(Most of my project are on Github, only a few are listed here so recommend you to check it below.)</p>
+    <p>(Most of my project are on Github, only a few are listed here so recommend you to check it below)</p>
 
 </div>
 
