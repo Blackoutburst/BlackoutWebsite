@@ -49,7 +49,7 @@
         <img src="img/ps.png" class="project-img">
     </a>
 
-    <p>(Most of my project are on Github, only a few are listed here so recommend you to check it below)</p>
+    <p class="note">(Most of my project are on Github, only a few are listed here so recommend you to check it below)</p>
 
 </div>
 
@@ -88,6 +88,11 @@ function test() {
 <style>
 
 
+@font-face {
+  font-family: customFontCoda;
+  src: url("../font/coda.woff");
+}
+
 .contact-img {
     max-width: 8%;
     border-radius: 10%;
@@ -101,12 +106,12 @@ function test() {
     padding: 10px;
     text-align: center;
     font-size: 26px;
-    font-family: coda;
+    font-family: customFontCoda;
     color: white;
 }
 
 .contact-title {
-    font-family: coda;
+    font-family: customFontCoda;
     font-weight: bold;
     background: -webkit-linear-gradient(#823ba1, #5d38a8);
     -webkit-background-clip: text;
@@ -135,10 +140,15 @@ function test() {
 
 .pr {
     text-align:center;
+}
+
+.note {
+    text-align:center;
     font-size: 26px;
-    font-family: coda;
+    font-family: customFontCoda;
     font-style: italic;
     color: #aaaaaa;
+    padding: 80px;
 }
 
 
@@ -146,7 +156,7 @@ function test() {
     padding: 80px;
     text-align: center;
     font-size: 26px;
-    font-family: coda;
+    font-family: customFontCoda;
     color: white;
 }
 
@@ -154,14 +164,14 @@ function test() {
     background: -webkit-linear-gradient(#823ba1, #5d38a8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-family: coda;
+    font-family: customFontCoda;
     font-weight: bold;
     font-size: 40px;
     color: white;
 }
 
 .title {
-    font-family: coda;
+    font-family: customFontCoda;
     background: -webkit-linear-gradient(#823ba1, #5d38a8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
