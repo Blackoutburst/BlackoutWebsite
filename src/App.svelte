@@ -94,7 +94,7 @@ function test() {
 
 @media only screen and (max-width: 1200px) {
     .contact-img {
-        max-width: 10vw;
+        max-width: 15vw;
         padding: 10px;
         margin: 10px;
     }
@@ -112,7 +112,6 @@ function test() {
     margin-top: 80px;
     padding: 10px;
     text-align: center;
-    font-size: 26px;
     color: white;
 }
 
@@ -135,7 +134,7 @@ function test() {
         background: -webkit-linear-gradient(#823ba1, #5d38a8);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
-        font-size: 3vw;
+        font-size: 5vw;
         color: white;
     }
 }
@@ -157,11 +156,22 @@ function test() {
     color: white;
 }
 
-.project-img {
-    max-width: 40%;
-    border-radius: 50px;
-    padding: 3px;
-    margin: 3px;
+@media only screen and (min-width: 1200px) {
+    .project-img {
+        max-width: 40%;
+        border-radius: 50px;
+        padding: 3px;
+        margin: 3px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .project-img {
+        max-width: 40%;
+        border-radius: 20px;
+        padding: 3px;
+        margin: 3px;
+    }
 }
 
 .pr {
@@ -171,7 +181,9 @@ function test() {
 @media only screen and (max-width: 1200px) {
     .note {
         text-align:center;
-        font-size: 2vw;
+        font-size: 3vw;
+        margin-left: 40px;
+        margin-right: 40px;
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
         font-style: italic;
         color: #3a2b4f;
@@ -193,7 +205,9 @@ function test() {
 @media only screen and (max-width: 1200px) {
     .bio {
         text-align: center;
-        font-size: 2vw;
+        font-size: 3vw;
+        margin-left: 40px;
+        margin-right: 40px;
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         color: #d4b5ff;
         padding-bottom: 40px;
@@ -230,7 +244,7 @@ function test() {
         -webkit-text-fill-color: transparent;
         font-family: customFontCoda;
         font-weight: bold;
-        font-size: 3vw;
+        font-size: 5vw;
         color: white;
     }
 }
