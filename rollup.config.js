@@ -29,12 +29,12 @@ function serve() {
 }
 
 export default {
-	input: 'src/main.js',
+	input: 'src/wally.js',
 	output: {
 		sourcemap: true,
 		format: 'iife',
 		name: 'app',
-		file: 'public/build/bundle.js'
+		file: 'public/build/wally.js'
 	},
 	plugins: [
 		svelte({
@@ -45,7 +45,7 @@ export default {
 		}),
 		// we'll extract any component CSS out into
 		// a separate file - better for performance
-		css({ output: 'bundle.css' }),
+		css({ output: 'wally.css' }),
 
 		// If you have external dependencies installed from
 		// npm, you'll most likely need these plugins. In

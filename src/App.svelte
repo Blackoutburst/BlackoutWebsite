@@ -25,7 +25,7 @@
 
 <div class="pr">
 
-    <a href="https://github.com/Blackoutburst/Wally" target="_blank" rel="noopener noreferrer">
+    <a href="wally.html">
         <img src="img/wally.jpg" alt="wally" class="project-img">
     </a>
 
@@ -49,7 +49,7 @@
         <img src="img/ps.jpg" alt="ps" class="project-img">
     </a>
 
-    <p class="note">(Most of my project are on Github, only a few are listed here so recommend you to check it below)</p>
+    <p class="note">(Most of my projects are on Github, only a few are listed here so recommend you to check it below)</p>
 
 </div>
 
