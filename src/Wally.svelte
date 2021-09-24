@@ -75,6 +75,19 @@
     </a>
 </div>
 
+
+<div class="links">
+    <h1 class="links-title">Made with</h1>
+
+    <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+        <img src="img/java.png" alt="java" class="links-img">
+    </a>
+
+    <a href="https://github.com/DV8FromTheWorld/JDA" target="_blank" rel="noopener noreferrer">
+        <img src="img/jda.png" alt="jda" class="links-img">
+    </a>
+</div>
+
 <div id="clipboard"></div>
 
 <div class="footer">
