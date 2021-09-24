@@ -51,7 +51,7 @@
     <h1 class="features-title">Features (Practice server)</h1>
     <p>
         Wally can also access stats from the <a href="https://github.com/Blackoutburst/HitW-plugin" target="_blank" rel="noopener noreferrer">community practice server</a><br>
-        Most features are similar only the header is different and the stats tracker as well
+        Most features are similar only the header is different and the stats tracked as well
     </p>
     <img src="img/pstats.png" alt="discord" class="features-img">
     <p class="note">(For example these are my practice stats)</p>
