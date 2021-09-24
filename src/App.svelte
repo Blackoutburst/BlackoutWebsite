@@ -1,6 +1,6 @@
 <header>
     <div class="header">
-        <img src="img/pfp.png" class="logo">
+        <img src="img/pfp.jpg" alt="myLogo" class="logo">
         <p class="title">BLACKOUTBURST</p>
     </div>
 </header>
@@ -26,27 +26,27 @@
 <div class="pr">
 
     <a href="https://github.com/Blackoutburst/Wally" target="_blank" rel="noopener noreferrer">
-        <img src="img/wally.png" class="project-img">
+        <img src="img/wally.jpg" alt="wally" class="project-img">
     </a>
 
     <a href="https://github.com/Blackoutburst/HitW-plugin" target="_blank" rel="noopener noreferrer">
-        <img src="img/hitw.png" class="project-img">
+        <img src="img/hitw.jpg" alt="hitw" class="project-img">
     </a>
 
     <a href="https://github.com/Blackoutburst/QuakeCraft" target="_blank" rel="noopener noreferrer">
-        <img src="img/quake.png" class="project-img">
+        <img src="img/quake.jpg" alt="quake" class="project-img">
     </a>
 
     <a href="https://github.com/Blackoutburst/AoW-plugin" target="_blank" rel="noopener noreferrer">
-        <img src="img/aow.png" class="project-img">
+        <img src="img/aow.jpg" alt="aow" class="project-img">
     </a>
 
     <a href="https://github.com/Blackoutburst/Rhythm-Pong" target="_blank" rel="noopener noreferrer">
-        <img src="img/pong.png" class="project-img">
+        <img src="img/pong.jpg" alt="pong" class="project-img">
     </a>
 
     <a href="https://play.google.com/store/apps/details?id=com.blackoutburst.pixelstarship" target="_blank" rel="noopener noreferrer">
-        <img src="img/ps.png" class="project-img">
+        <img src="img/ps.jpg" alt="ps" class="project-img">
     </a>
 
     <p class="note">(Most of my project are on Github, only a few are listed here so recommend you to check it below)</p>
@@ -59,15 +59,15 @@
 
 
     <a href="javacript:void(0)" on:click={test}>
-        <img src="img/discord.png" class="contact-img">
+        <img src="img/discord.png" alt="discord" class="contact-img">
     </a>
 
     <a href="https://github.com/Blackoutburst" target="_blank" rel="noopener noreferrer">
-        <img src="img/github.png" class="contact-img">
+        <img src="img/github.png" alt="github" class="contact-img">
     </a>
 
     <a href="https://www.youtube.com/channel/UCOmdNokN6UVeNhDfB61B_0A" target="_blank" rel="noopener noreferrer">
-        <img src="img/youtube.png" class="contact-img">
+        <img src="img/youtube.png" alt="youtube" class="contact-img">
     </a>
 </div>
 
