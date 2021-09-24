@@ -74,7 +74,7 @@
 <div id="clipboard"></div>
 
 <div class="footer">
-    <p class="title">© Blackoutburst</p>
+    <p class="footer-title">© Blackoutburst</p>
 </div>
 
 <script>
@@ -87,53 +87,79 @@ function test() {
 
 <style>
 
-
 @font-face {
   font-family: customFontCoda;
-  src: url("../font/coda.woff");
+  src: url("../font/coda.ttf");
 }
 
-.contact-img {
-    max-width: 8%;
-    border-radius: 10%;
-    padding: 10px;
-    margin: 10px;
+@media only screen and (max-width: 1200px) {
+    .contact-img {
+        max-width: 10vw;
+        padding: 10px;
+        margin: 10px;
+    }
 }
 
+@media only screen and (min-width: 1200px) {
+    .contact-img {
+        max-width: 11%;
+        padding: 10px;
+        margin: 10px;
+    }
+}
 
 .contact {
     margin-top: 80px;
     padding: 10px;
     text-align: center;
     font-size: 26px;
-    font-family: customFontCoda;
     color: white;
 }
 
-.contact-title {
+@media only screen and (min-width: 1200px) {
+    .contact-title {
+        font-family: customFontCoda;
+        font-weight: bold;
+        background: -webkit-linear-gradient(#823ba1, #5d38a8);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 40px;
+        color: white;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .contact-title {
+        font-family: customFontCoda;
+        font-weight: bold;
+        background: -webkit-linear-gradient(#823ba1, #5d38a8);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 3vw;
+        color: white;
+    }
+}
+
+.footer-title {
     font-family: customFontCoda;
-    font-weight: bold;
     background: -webkit-linear-gradient(#823ba1, #5d38a8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    font-size: 40px;
-    color: white;
+    font-size: 1vmax;
 }
 
 .footer {
     margin-top: 80px;
     padding: 10px;
     background: rgb(22,8,40);
-    background: linear-gradient(49deg, rgba(22,8,40,1) 0%, rgba(45,10,71,1) 38%, rgba(11,2,31,1) 100%);
+    background: linear-gradient(49deg, rgb(20, 14, 31) 0%, rgba(34, 22, 48) 38%, rgba(20, 14, 31) 100%);
     text-align: left;
     color: white;
-    font-size: 20px;
-    box-shadow: 0px 0px 10px 0px rgb(30,30,30);
 }
 
 .project-img {
-    max-width: 75%;
-    border-radius: 10%;
+    max-width: 40%;
+    border-radius: 50px;
     padding: 3px;
     margin: 3px;
 }
@@ -142,32 +168,71 @@ function test() {
     text-align:center;
 }
 
-.note {
-    text-align:center;
-    font-size: 26px;
-    font-family: customFontCoda;
-    font-style: italic;
-    color: #aaaaaa;
-    padding: 80px;
+@media only screen and (max-width: 1200px) {
+    .note {
+        text-align:center;
+        font-size: 2vw;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+        font-style: italic;
+        color: #3a2b4f;
+        padding-top: 20px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .note {
+        text-align:center;
+        font-size: 26px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+        font-style: italic;
+        color: #3a2b4f;
+        padding-top: 20px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .bio {
+        text-align: center;
+        font-size: 2vw;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: #d4b5ff;
+        padding-bottom: 40px;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .bio {
+        text-align: center;
+        font-size: 26px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: #d4b5ff;
+        padding-bottom: 40px;
+    }
 }
 
 
-.bio {
-    padding: 80px;
-    text-align: center;
-    font-size: 26px;
-    font-family: customFontCoda;
-    color: white;
+@media only screen and (min-width: 1200px) {
+    .bio-title {
+        background: -webkit-linear-gradient(#823ba1, #5d38a8);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-family: customFontCoda;
+        font-weight: bold;
+        font-size: 40px;
+        color: white;
+    }
 }
 
-.bio-title {
-    background: -webkit-linear-gradient(#823ba1, #5d38a8);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-family: customFontCoda;
-    font-weight: bold;
-    font-size: 40px;
-    color: white;
+@media only screen and (max-width: 1200px) {
+    .bio-title {
+        background: -webkit-linear-gradient(#823ba1, #5d38a8);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-family: customFontCoda;
+        font-weight: bold;
+        font-size: 3vw;
+        color: white;
+    }
 }
 
 .title {
@@ -175,16 +240,16 @@ function test() {
     background: -webkit-linear-gradient(#823ba1, #5d38a8);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    font-size: 3vmax;
 }
 
 .header {
     padding: 40px;
     background: rgb(22,8,40);
-    background: linear-gradient(49deg, rgba(22,8,40,1) 0%, rgba(45,10,71,1) 38%, rgba(11,2,31,1) 100%);
+    background: linear-gradient(49deg, rgb(20, 14, 31) 0%, rgba(34, 18, 51) 38%, rgba(20, 14, 31) 100%);
     text-align: center;
     color: white;
     font-size: 40px;
-    box-shadow: 0px 0px 10px 0px rgb(30,30,30);
 }
 
 .logo {
