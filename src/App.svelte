@@ -102,7 +102,7 @@ function test() {
 
 @media only screen and (min-width: 1200px) {
     .contact-img {
-        max-width: 11%;
+        max-width: 7%;
         padding: 10px;
         margin: 10px;
     }
