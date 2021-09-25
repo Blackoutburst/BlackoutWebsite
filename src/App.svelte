@@ -29,7 +29,7 @@
         <img src="img/wally.jpg" alt="wally" class="project-img">
     </a>
 
-    <a href="https://github.com/Blackoutburst/HitW-plugin" target="_blank" rel="noopener noreferrer">
+    <a href="hitw.html" target="_blank" rel="noopener noreferrer">
         <img src="img/hitw.jpg" alt="hitw" class="project-img">
     </a>
 
