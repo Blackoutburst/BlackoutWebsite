@@ -29,7 +29,7 @@
         <img src="img/wally.jpg" alt="wally" class="project-img">
     </a>
 
-    <a href="hitw.html" target="_blank" rel="noopener noreferrer">
+    <a href="hitw.html">
         <img src="img/hitw.jpg" alt="hitw" class="project-img">
     </a>
 
