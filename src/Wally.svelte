@@ -94,7 +94,6 @@
 </div>
 
 <style>
-
 @font-face {
   font-family: customFontCoda;
   src: url("../font/coda.ttf");
