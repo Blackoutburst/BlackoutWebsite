@@ -53,12 +53,11 @@
 
 </div>
 
-
 <div class="contact">
     <h1 class="contact-title">Useful stuff</h1>
 
 
-    <a href="javacript:void(0)" on:click={test}>
+    <a href="javacript:void(0)" on:click={clipboard}>
         <img src="img/discord.png" alt="discord" class="contact-img">
     </a>
 
@@ -78,15 +77,13 @@
 </div>
 
 <script>
-
-function test() {
+function clipboard() {
     navigator.clipboard.writeText("Blackout#0900");
     alert("Discord copied inside the clipboard: Blackout#0900");
 }
 </script>
 
 <style>
-
 @font-face {
   font-family: customFontCoda;
   src: url("../font/coda.ttf");
