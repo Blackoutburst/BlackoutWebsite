@@ -77,6 +77,10 @@
     <a href="https://github.com/Blackoutburst/HitW-plugin" target="_blank" rel="noopener noreferrer">
         <img src="img/github.png" alt="github" class="links-img">
     </a>
+
+    <a href="javacript:void(0)" target="_blank" rel="noopener noreferrer">
+        <img src="img/youtube.png" alt="discord" class="links-img">
+    </a>
 </div>
 
 <div class="links">
