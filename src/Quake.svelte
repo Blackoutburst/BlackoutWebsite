@@ -30,14 +30,14 @@
         Full game only solo mode, first one to 25 point win the game
     </p>
     <img src="img/quake-game.png" alt="discord" class="features-img">
-    <p class="note">(Yeah i know it's literally Hypixel QuakeCraft at this point sorry)</p>
+    <p class="note">(Yeah, I know it's literally Hypixel QuakeCraft at this point sorry)</p>
 
     <p>
         The gun customisation menu, this screenshot is only the main page<br>
         It is divided in 3 parts the gun item, the explosion shape and explosion color
     </p>
     <img src="img/quake-menu.png" alt="discord" class="features-img">
-    <p class="note">(Like i said this wasn't supposed to be a feature but whatever)</p>
+    <p class="note">(Like I said this wasn't supposed to be a feature but whatever)</p>
 
 </div>
 
