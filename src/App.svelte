@@ -41,7 +41,7 @@
         <img src="img/aow.jpg" alt="aow" class="project-img">
     </a>
 
-    <a href="https://github.com/Blackoutburst/Rhythm-Pong" target="_blank" rel="noopener noreferrer">
+    <a href="pong.html">
         <img src="img/pong.jpg" alt="pong" class="project-img">
     </a>
 
