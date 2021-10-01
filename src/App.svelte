@@ -45,7 +45,7 @@
         <img src="img/pong.jpg" alt="pong" class="project-img">
     </a>
 
-    <a href="https://play.google.com/store/apps/details?id=com.blackoutburst.pixelstarship" target="_blank" rel="noopener noreferrer">
+    <a href="pixel.html">
         <img src="img/ps.jpg" alt="ps" class="project-img">
     </a>
 
