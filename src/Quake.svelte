@@ -1,6 +1,6 @@
 <header>
     <div class="header">
-        <img src="img/quake.png" alt="myLogo" class="logo">
+        <img src="img/quake.png" alt="logo" class="logo">
         <p class="title">QUAKECRAFT</p>
     </div>
 </header>
@@ -23,20 +23,20 @@
         All features are explained on the <a href="https://github.com/Blackoutburst/QuakeCraft" target="_blank" rel="noopener noreferrer">GitHub</a><br>
         But the main ones are obviously the Railgun and the dash mechanics
     </p>
-    <img src="img/railgun.png" alt="discord" class="features-img">
+    <img src="img/railgun.png" alt="railgun" class="features-img">
     <p class="note">(Railgun in action)</p>
 
     <p>
         Full game only solo mode, first one to 25 point win the game
     </p>
-    <img src="img/quake-game.png" alt="discord" class="features-img">
+    <img src="img/quake-game.png" alt="game" class="features-img">
     <p class="note">(Yeah, I know it's literally Hypixel QuakeCraft at this point sorry)</p>
 
     <p>
         The gun customisation menu, this screenshot is only the main page<br>
         It is divided in 3 parts the gun item, the explosion shape and explosion color
     </p>
-    <img src="img/quake-menu.png" alt="discord" class="features-img">
+    <img src="img/quake-menu.png" alt="menu" class="features-img">
     <p class="note">(Like I said this wasn't supposed to be a feature but whatever)</p>
 
 </div>
@@ -45,7 +45,7 @@
     <h1 class="links-title">Find this project</h1>
 
     <a href="javacript:void(0)" target="_blank" rel="noopener noreferrer">
-        <img src="img/youtube.png" alt="discord" class="links-img">
+        <img src="img/youtube.png" alt="youtube" class="links-img">
     </a>
 
     <a href="https://github.com/Blackoutburst/QuakeCraft" target="_blank" rel="noopener noreferrer">
@@ -61,7 +61,7 @@
     </a>
 
     <a href="https://www.spigotmc.org/" target="_blank" rel="noopener noreferrer">
-        <img src="img/spigot.png" alt="jda" class="links-img">
+        <img src="img/spigot.png" alt="spigot" class="links-img">
     </a>
 </div>
 

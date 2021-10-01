@@ -1,6 +1,6 @@
 <header>
     <div class="header">
-        <img src="img/pong.png" alt="myLogo" class="logo">
+        <img src="img/pong.png" alt="logo" class="logo">
         <p class="title">RHYTHM PONG</p>
     </div>
 </header>
@@ -38,14 +38,14 @@
         This ghost ball work like the real ball to determine where the real ball is going to hit<br>
     </p>
 
-    <img src="img/old-pong.png" alt="discord" class="features-img">
+    <img src="img/old-pong.png" alt="old" class="features-img">
     <p class="note">(A screenshot of the Java version)</p>
 
     <div class="links">
         <h1 class="links-title">Find this version</h1>
 
         <a href="https://www.youtube.com/watch?v=HrEQaj-_Z4E" target="_blank" rel="noopener noreferrer">
-            <img src="img/youtube.png" alt="discord" class="links-img">
+            <img src="img/youtube.png" alt="youtube" class="links-img">
         </a>
 
         <a href="https://github.com/Blackoutburst/Pong-song-sync" target="_blank" rel="noopener noreferrer">
@@ -61,7 +61,7 @@
         </a>
 
         <a href="https://www.lwjgl.org/" target="_blank" rel="noopener noreferrer">
-            <img src="img/lwjgl.png" alt="jda" class="links-img">
+            <img src="img/lwjgl.png" alt="lwjgl" class="links-img">
         </a>
     </div>
 
@@ -78,7 +78,7 @@
         <br>
     </p>
 
-    <img src="img/new-pong.png" alt="discord" class="features-img">
+    <img src="img/new-pong.png" alt="new" class="features-img">
     <p class="note">(A screenshot of the C# version)</p>
 
 </div>
@@ -87,7 +87,7 @@
     <h1 class="links-title">Find this project</h1>
 
     <a href="https://www.youtube.com/watch?v=q3KTWuEAKY0" target="_blank" rel="noopener noreferrer">
-        <img src="img/youtube.png" alt="discord" class="links-img">
+        <img src="img/youtube.png" alt="youtube" class="links-img">
     </a>
 
     <a href="https://github.com/Blackoutburst/Rhythm-Pong" target="_blank" rel="noopener noreferrer">
@@ -99,11 +99,11 @@
     <h1 class="links-title">Made with</h1>
 
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noopener noreferrer">
-        <img src="img/csharp.png" alt="java" class="links-img">
+        <img src="img/csharp.png" alt="csharp" class="links-img">
     </a>
 
     <a href="https://unity.com/" target="_blank" rel="noopener noreferrer">
-        <img src="img/unity.png" alt="jda" class="links-img">
+        <img src="img/unity.png" alt="unity" class="links-img">
     </a>
 </div>
 

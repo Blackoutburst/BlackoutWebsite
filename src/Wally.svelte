@@ -1,6 +1,6 @@
 <header>
     <div class="header">
-        <img src="img/wally.png" alt="myLogo" class="logo">
+        <img src="img/wally.png" alt="logo" class="logo">
         <p class="title">WALLY</p>
     </div>
 </header>
@@ -25,19 +25,19 @@
         Wally contains a basic stats checking features using canvas<br>
         Stats are obtained using the Hypixel API
     </p>
-    <img src="img/stats.png" alt="discord" class="features-img">
+    <img src="img/stats.png" alt="stats" class="features-img">
     <p class="note">(These are my stats for example)</p>
 
     <p>
         You can compare player stats
     </p>
-    <img src="img/compare.png" alt="discord" class="features-img">
+    <img src="img/compare.png" alt="compare" class="features-img">
     <p class="note">(Note the color of the header is based on the discord roles color)</p>
 
     <p>
         Check all stats leaderboard
     </p>
-    <img src="img/lead.png" alt="discord" class="features-img">
+    <img src="img/lead.png" alt="lead" class="features-img">
     <p class="note">(By all stats I mean: Wins/Walls/Finals/Qualification)</p>
 
     <p>
@@ -45,7 +45,7 @@
         For this Wally use a personal database of every member on the discord server<br>
         Then on a regular basis compare his database score with user score inside the Hypixel API
     </p>
-    <img src="img/track.png" alt="discord" class="features-img">
+    <img src="img/track.png" alt="track" class="features-img">
     <p class="note">(This is the first person to ever reach 450+ :O)</p>
 
     <h1 class="features-title">Features (Practice server)</h1>
@@ -53,13 +53,13 @@
         Wally can also access stats from the <a href="hitw.html" target="_blank" rel="noopener noreferrer">community practice server</a><br>
         Most features are similar only the header is different and the stats tracked as well
     </p>
-    <img src="img/pstats.png" alt="discord" class="features-img">
+    <img src="img/pstats.png" alt="pstats" class="features-img">
     <p class="note">(For example these are my practice stats)</p>
     <p>
         Practice server stats also support comparisons and leaderboard but not any tracker for new personal best<br>
         Instead, there is a graph than can go up to the last 100 games a player played
     </p>
-    <img src="img/pgraph.png" alt="discord" class="features-img">
+    <img src="img/pgraph.png" alt="pgraph" class="features-img">
     <p class="note">(Here are my last 20 finals games, we can display from 2 to 100 games)</p>
 </div>
 

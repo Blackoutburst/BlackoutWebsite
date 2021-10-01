@@ -1,6 +1,6 @@
 <header>
     <div class="header">
-        <img src="img/hitw.png" alt="myLogo" class="logo">
+        <img src="img/hitw.png" alt="logo" class="logo">
         <p class="title">Hole in the Wall</p>
     </div>
 </header>
@@ -32,33 +32,33 @@
         <br>
         The Hole in the Wall game is the main features all you do is play freely<br>
     </p>
-    <img src="img/hitw-game.png" alt="discord" class="features-img">
+    <img src="img/hitw-game.png" alt="game" class="features-img">
     <p class="note">(Game screenshot on the current map)</p>
     <p>
         The option menu to play the game the way you want to play it<br>
         Every option is explained on the GitHub<br>
     </p>
-    <img src="img/hitw-menu.png" alt="discord" class="features-img">
+    <img src="img/hitw-menu.png" alt="menu" class="features-img">
     <p class="note">(The screenshot is a bit outdated now we can see our stats on the bottom right)</p>
 
     <p>
         A game summary system so you can see what you did wrong<br>
     </p>
-    <img src="img/game-summary.png" alt="discord" class="features-img">
+    <img src="img/game-summary.png" alt="summary" class="features-img">
     <p class="note">(All you need to know about your game in one place)</p>
 
     <p>
         This plugin also contains a duel system after months on request by the community<br>
         There is also a <a href="https://www.youtube.com/watch?v=3O-An6CLEao" target="_blank" rel="noopener noreferrer">video (Flashing light)</a> of me coding the duel system<br>
     </p>
-    <img src="img/duel.png" alt="discord" class="features-img">
+    <img src="img/duel.png" alt="duel" class="features-img">
     <p class="note">(You have no idea of much time they asked me for that)</p>
 
     <p>
         And for the last big gameplay features we have the party/coop system<br>
         When inside a party player can play together on the same wall or even make party duels<br>
     </p>
-    <img src="img/party.png" alt="discord" class="features-img">
+    <img src="img/party.png" alt="party" class="features-img">
     <p class="note">(What ? It's nearly the same as the Hypixel one ? Nah just your imagination)</p>
     <p>
         And last, there is an API system used to receive players score<br>
@@ -71,7 +71,7 @@
     <h1 class="links-title">Find this project</h1>
 
     <a href="https://namemc.com/server/hitw.minesr.com" target="_blank" rel="noopener noreferrer">
-        <img src="img/ip.png" alt="discord" class="links-img">
+        <img src="img/ip.png" alt="ip" class="links-img">
     </a>
 
     <a href="https://github.com/Blackoutburst/HitW-plugin" target="_blank" rel="noopener noreferrer">
@@ -79,7 +79,7 @@
     </a>
 
     <a href="javacript:void(0)" target="_blank" rel="noopener noreferrer">
-        <img src="img/youtube.png" alt="discord" class="links-img">
+        <img src="img/youtube.png" alt="youtube" class="links-img">
     </a>
 </div>
 
@@ -91,7 +91,7 @@
     </a>
 
     <a href="https://www.spigotmc.org/" target="_blank" rel="noopener noreferrer">
-        <img src="img/spigot.png" alt="jda" class="links-img">
+        <img src="img/spigot.png" alt="spigot" class="links-img">
     </a>
 </div>
 
