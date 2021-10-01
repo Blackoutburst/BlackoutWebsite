@@ -44,7 +44,7 @@
 <div class="links">
     <h1 class="links-title">Find this project</h1>
 
-    <a href="javacript:void(0)" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youtube.com/watch?v=-bWFTFtxhPQ" target="_blank" rel="noopener noreferrer">
         <img src="img/youtube.png" alt="youtube" class="links-img">
     </a>
 
