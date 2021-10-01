@@ -54,7 +54,7 @@
 </div>
 
 <div class="contact">
-    <h1 class="contact-title">Useful stuff</h1>
+    <h1 class="contact-title">How to find me</h1>
 
 
     <a href="javacript:void(0)" on:click={clipboard}>
@@ -67,6 +67,14 @@
 
     <a href="https://www.youtube.com/channel/UCOmdNokN6UVeNhDfB61B_0A" target="_blank" rel="noopener noreferrer">
         <img src="img/youtube.png" alt="youtube" class="contact-img">
+    </a>
+
+    <a href="https://fr.namemc.com/profile/b8ef1c76-15e0-4b95-8d47-4ca133561f5a" target="_blank" rel="noopener noreferrer">
+        <img src="img/minecraft.png" alt="github" class="contact-img">
+    </a>
+
+    <a href="https://steamcommunity.com/id/blackoutburst/" target="_blank" rel="noopener noreferrer">
+        <img src="img/steam.png" alt="github" class="contact-img">
     </a>
 </div>
 
