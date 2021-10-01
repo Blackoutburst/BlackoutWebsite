@@ -9,7 +9,7 @@
     <h1 class="about-title">About this project</h1>
     <p>
         This project started around November 2020<br>
-        At first this was just a joke about a dream a player (<a href="https://hypixel.net/members/hammyinthewall.154763/" target="_blank" rel="noopener noreferrer">HammyInTheWall</a>) had<br>
+        At first this was just a joke about a dream of a player (<a href="https://hypixel.net/members/hammyinthewall.154763/" target="_blank" rel="noopener noreferrer">HammyInTheWall</a>) had<br>
         This dream was a joke version of the game, so I started making this for fun<br>
         <br>
         Later I realized I was able to work on something real instead of a joke dream<br>
