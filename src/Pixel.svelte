@@ -216,8 +216,8 @@
 
 @media only screen and (max-width: 1200px) {
     .features-vid {
-        width: 854px;
-        height: 480px;
+        width: 426px;
+        height: 240px;
     }
 }
 
