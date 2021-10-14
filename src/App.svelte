@@ -11,7 +11,7 @@
         Hi, I'm Blackoutburst and I'm mainly a Java programmer.<br>
         I started programming a while ago doing small Minecraft mods.<br>
         <br>
-        Today I'm still working mainly on Minecraft projects that a enjoy.<br>
+        Today I'm still working mainly on Minecraft projects that I enjoy.<br>
         I used to do games/software with LWJGL and Slick2D.<br>
         <br>
         I'm a student currently doing my 3rd year inside a computer science university.<br>
