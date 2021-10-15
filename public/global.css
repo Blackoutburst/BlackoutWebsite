@@ -58,3 +58,43 @@ button:not(:disabled):active {
 button:focus {
 	border-color: #666;
 }
+
+.header {
+    padding: 40px;
+    background: rgb(22,8,40);
+    background: linear-gradient(90deg, #2d0047 0%, #400047 100%);
+    border-bottom-style: solid;
+    border-bottom-color: #bf00ff;
+    border-width: 1px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.footer {
+    margin-top: 80px;
+    padding: 10px;
+    background: rgb(22,8,40);
+    background: linear-gradient(90deg, #2d0047 0%, #400047 100%);
+    border-top-style: solid;
+    border-top-color: #bf00ff;
+    border-width: 1px;
+    text-align: left;
+    color: white;
+}
+
+.title {
+    font-family: customFontCoda;
+    background: #bf00ff;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 3vmax;
+}
+
+.footer-title {
+    font-family: customFontCoda;
+    background: #bf00ff;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1vmax;
+}

@@ -158,7 +158,7 @@
     .links-title {
         font-family: customFontCoda;
         font-weight: bold;
-        background: -webkit-linear-gradient(#823ba1, #5d38a8);
+        background: #bf00ff;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-size: 40px;
@@ -170,29 +170,12 @@
     .links-title {
         font-family: customFontCoda;
         font-weight: bold;
-        background: -webkit-linear-gradient(#823ba1, #5d38a8);
+        background: #bf00ff;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-size: 5vw;
         color: white;
     }
-}
-
-.footer-title {
-    font-family: customFontCoda;
-    background: -webkit-linear-gradient(#823ba1, #5d38a8);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 1vmax;
-}
-
-.footer {
-    margin-top: 80px;
-    padding: 10px;
-    background: rgb(22,8,40);
-    background: linear-gradient(49deg, rgb(20, 14, 31) 0%, rgba(34, 22, 48) 38%, rgba(20, 14, 31) 100%);
-    text-align: left;
-    color: white;
 }
 
 @media only screen and (min-width: 1200px) {
@@ -209,15 +192,15 @@
 
 @media only screen and (min-width: 1200px) {
     .features-vid {
-        width: 960px;
-        height: 540px;
+        width: 60vw;
+        height: calc(60vw * 9 / 16);
     }
 }
 
 @media only screen and (max-width: 1200px) {
     .features-vid {
-        width: 426px;
-        height: 240px;
+        width: 50vw;
+        height: calc(50vw * 9 / 16);
     }
 }
 
@@ -246,7 +229,7 @@
 
 @media only screen and (min-width: 1200px) {
     .features-title {
-        background: -webkit-linear-gradient(#823ba1, #5d38a8);
+        background: #bf00ff;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-family: customFontCoda;
@@ -263,7 +246,7 @@
         margin-right: 40px;
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
         font-style: italic;
-        color: #3a2b4f;
+        color: #4f396e;
     }
 }
 
@@ -273,13 +256,13 @@
         font-size: 26px;
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
         font-style: italic;
-        color: #3a2b4f;
+        color: #4f396e;
     }
 }
 
 @media only screen and (max-width: 1200px) {
     .features-title {
-        background: -webkit-linear-gradient(#823ba1, #5d38a8);
+        background: #bf00ff;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-family: customFontCoda;
@@ -314,7 +297,7 @@
 
 @media only screen and (min-width: 1200px) {
     .about-title {
-        background: -webkit-linear-gradient(#823ba1, #5d38a8);
+        background: #bf00ff;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-family: customFontCoda;
@@ -326,7 +309,7 @@
 
 @media only screen and (max-width: 1200px) {
     .about-title {
-        background: -webkit-linear-gradient(#823ba1, #5d38a8);
+        background: #bf00ff;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-family: customFontCoda;
@@ -334,23 +317,6 @@
         font-size: 5vw;
         color: white;
     }
-}
-
-.title {
-    font-family: customFontCoda;
-    background: -webkit-linear-gradient(#823ba1, #5d38a8);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 3vmax;
-}
-
-.header {
-    padding: 40px;
-    background: rgb(22,8,40);
-    background: linear-gradient(49deg, rgb(20, 14, 31) 0%, rgba(34, 18, 51) 38%, rgba(20, 14, 31) 100%);
-    text-align: center;
-    color: white;
-    font-size: 40px;
 }
 
 .logo {
