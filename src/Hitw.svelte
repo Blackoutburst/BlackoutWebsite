@@ -1,5 +1,5 @@
 <div class="navbar">
-    <a href="index.html"><img src="img/pfp.jpg" alt="wally" class="nav-icon" style="border-radius: 50%"></a>
+    <a href="index.html"><img src="img/pfp.jpg" alt="logo" class="nav-icon" style="border-radius: 50%"></a>
     <a href="wally.html"><img src="img/wally.png" alt="wally" class="nav-icon"></a>
     <a href="hitw.html"><img src="img/hitw.png" alt="hitw" class="nav-icon"></a>
     <a href="quake.html"><img src="img/quake.png" alt="quake" class="nav-icon"></a>
