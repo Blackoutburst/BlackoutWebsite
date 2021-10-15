@@ -28,6 +28,10 @@
 </div>
 
 <div class="features">
+
+    <h1 class="features-title">Demo</h1>
+    <iframe class="features-vid" src="https://www.youtube.com/embed/-bWFTFtxhPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     <h1 class="features-title">Features</h1>
     <p>
         All features are explained on the <a href="https://github.com/Blackoutburst/QuakeCraft" target="_blank" rel="noopener noreferrer">GitHub</a><br>
@@ -53,10 +57,6 @@
 
 <div class="links">
     <h1 class="links-title">Find this project</h1>
-
-    <a href="https://www.youtube.com/watch?v=-bWFTFtxhPQ" target="_blank" rel="noopener noreferrer">
-        <img src="img/youtube.png" alt="youtube" class="links-img">
-    </a>
 
     <a href="https://github.com/Blackoutburst/QuakeCraft" target="_blank" rel="noopener noreferrer">
         <img src="img/github.png" alt="github" class="links-img">
@@ -85,6 +85,20 @@
 @font-face {
   font-family: customFontCoda;
   src: url("../font/coda.ttf");
+}
+
+@media only screen and (min-width: 1200px) {
+    .features-vid {
+        width: 60vw;
+        height: calc(60vw * 9 / 16);
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .features-vid {
+        width: 50vw;
+        height: calc(50vw * 9 / 16);
+    }
 }
 
 @media only screen and (max-width: 1200px) {
