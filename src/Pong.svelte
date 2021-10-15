@@ -4,7 +4,6 @@
     <a href="hitw.html"><img src="img/hitw.png" alt="hitw" class="nav-icon"></a>
     <a href="quake.html"><img src="img/quake.png" alt="quake" class="nav-icon"></a>
     <a href="aow.html"><img src="img/aow.png" alt="aow" class="nav-icon"></a>
-    <a href="pong.html"><img src="img/pong.png" alt="pong" class="nav-icon"></a>
     <a href="pixel.html"><img src="img/pixel.png" alt="ps" class="nav-icon" style="border-radius: 20px"></a>
 </div>
 
