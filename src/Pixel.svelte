@@ -330,7 +330,6 @@
 }
 
 .logo {
-    box-shadow: 0px 0px 10px 0px #0394fc;
     display: block;
     margin-left: auto;
     margin-right: auto;
