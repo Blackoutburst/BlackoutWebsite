@@ -59,9 +59,26 @@ button:focus {
 	border-color: #666;
 }
 
+.navbar {
+    background: linear-gradient(90deg, #2d0047 0%, #400047 100%);
+    border-bottom-style: solid;
+    border-bottom-color: #bf00ff;
+    border-width: 1px;
+    position: fixed;
+    top: 0;
+    z-index: 1030;
+    width: 100%
+}
+
+.nav-icon {
+    width: 3vmax;
+    padding: 3px;
+    margin: 3px;
+}
+
 .header {
     padding: 40px;
-    background: rgb(22,8,40);
+    padding-top: 100px;
     background: linear-gradient(90deg, #2d0047 0%, #400047 100%);
     border-bottom-style: solid;
     border-bottom-color: #bf00ff;
@@ -74,7 +91,6 @@ button:focus {
 .footer {
     margin-top: 80px;
     padding: 10px;
-    background: rgb(22,8,40);
     background: linear-gradient(90deg, #2d0047 0%, #400047 100%);
     border-top-style: solid;
     border-top-color: #bf00ff;
