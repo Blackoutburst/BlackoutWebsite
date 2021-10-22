@@ -1,4 +1,4 @@
-import App from './Priv.svelte';
+import App from './Falling.svelte';
 
 const app = new App({
 	target: document.body,

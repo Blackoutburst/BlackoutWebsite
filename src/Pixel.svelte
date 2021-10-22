@@ -5,6 +5,7 @@
     <a href="quake.html"><img src="img/quake.png" alt="quake" class="nav-icon"></a>
     <a href="aow.html"><img src="img/aow.png" alt="aow" class="nav-icon"></a>
     <a href="pong.html"><img src="img/pong.png" alt="pong" class="nav-icon"></a>
+    <a href="falling.html"><img src="img/falling.png" alt="falling" class="nav-icon"></a>
 </div>
 
 <header>
