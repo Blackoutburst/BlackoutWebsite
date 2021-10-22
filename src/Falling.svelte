@@ -1,95 +1,58 @@
 <div class="navbar">
     <a href="index.html"><img src="img/pfp.jpg" alt="logo" class="nav-icon" style="border-radius: 50%"></a>
     <a href="wally.html"><img src="img/wally.png" alt="wally" class="nav-icon"></a>
+    <a href="hitw.html"><img src="img/hitw.png" alt="hitw" class="nav-icon"></a>
     <a href="quake.html"><img src="img/quake.png" alt="quake" class="nav-icon"></a>
     <a href="aow.html"><img src="img/aow.png" alt="aow" class="nav-icon"></a>
     <a href="pong.html"><img src="img/pong.png" alt="pong" class="nav-icon"></a>
     <a href="pixel.html"><img src="img/pixel.png" alt="ps" class="nav-icon" style="border-radius: 20px"></a>
-    <a href="falling.html"><img src="img/falling.png" alt="falling" class="nav-icon"></a>
 </div>
 
 <header>
     <div class="header">
-        <img src="img/hitw.png" alt="logo" class="logo">
-        <p class="title">Hole in the Wall</p>
+        <img src="img/falling.png" alt="logo" class="logo">
+        <p class="title">Falling Square</p>
     </div>
 </header>
 
 <div class="about">
     <h1 class="about-title">About this project</h1>
     <p>
-        This project started around November 2020<br>
-        At first this was just a joke about a dream of a player (<a href="https://hypixel.net/members/hammyinthewall.154763/" target="_blank" rel="noopener noreferrer">HammyInTheWall</a>) had<br>
-        This dream was a joke version of the game, so I started making this for fun<br>
+        This project was made somewhere in 2020<br>
+        We had to do a small project of our choice in school, and I decided to start this<br>
         <br>
-        Later I realized I was able to work on something real instead of a joke dream<br>
-        And this is when I started working on a full plugin acting as a server core<br>
+        I eventually started addind a lot of levels as it was fun to do<br>
+        But in the end the project got abandoned<br>
         <br>
-        The plugin today is different from the Hypixel Hole in the Wall<br>
-        You do not compete against players but instead have access to a bunch of options<br>
-        The whole point of this was to create a place to train and experiment<br>
-        <br>
-        Today this plugin run on our community server and have seen a bunch of improvements<br>
-        New functionality got added on people demands such as duels and custom walls<br>
+        I think it still deserve to be shown here but this will never be a finished project
     </p>
 </div>
 
 <div class="features">
     <h1 class="features-title">Features</h1>
     <p>
-        I really don't have much to explain here about this plugins features<br>
-        Everything is already explained on the <a href="https://github.com/Blackoutburst/HitW-plugin" target="_blank" rel="noopener noreferrer">GitHub</a> of this project<br>
+        In this game you move your player using the phone gyroscope<br>
+        This create an unique way of playing the game but make the game harder<br>
         <br>
-        The Hole in the Wall game is the main features all you do is play freely<br>
+        On each level you spawn on a purple square and need to reach the green one<br>
+        To unlock the exit you need to collect 3 coins placed inside every level<br>
+        And if you hit any wall you die and need to restart the level<br>
     </p>
-    <img src="img/hitw-game.png" alt="game" class="features-img">
-    <p class="note">(Game screenshot on the current map)</p>
+    <img src="img/game.png" alt="game" class="features-img">
+    <p class="note">(A simple screenshot of the game)</p>
     <p>
-        The option menu to play the game the way you want to play it<br>
-        Every option is explained on the GitHub<br>
+        This game should have featured 100 level but only 50 were built before being abandonned<br>
+        Once you finish a level you unlock the next one
     </p>
-    <img src="img/hitw-menu.png" alt="menu" class="features-img">
-    <p class="note">(The screenshot is a bit outdated now we can see our stats on the bottom right)</p>
-
-    <p>
-        A game summary system so you can see what you did wrong<br>
-    </p>
-    <img src="img/game-summary.png" alt="summary" class="features-img">
-    <p class="note">(All you need to know about your game in one place)</p>
-
-    <p>
-        This plugin also contains a duel system after months on request by the community<br>
-        There is also a <a href="https://www.youtube.com/watch?v=3O-An6CLEao" target="_blank" rel="noopener noreferrer">video (Flashing light)</a> of me coding the duel system<br>
-    </p>
-    <img src="img/duel.png" alt="duel" class="features-img">
-    <p class="note">(You have no idea of much time they asked me for that)</p>
-
-    <p>
-        And for the last big gameplay features we have the party/coop system<br>
-        When inside a party player can play together on the same wall or even make party duels<br>
-    </p>
-    <img src="img/party.png" alt="party" class="features-img">
-    <p class="note">(What ? It's nearly the same as the Hypixel one ? Nah just your imagination)</p>
-    <p>
-        And last, there is an API system used to receive players score<br>
-        This API is used in another project of mine: <a href="wally.html" target="_blank" rel="noopener noreferrer">Wally</a><br>
-    </p>
-    <p class="note">(Not much to says here sadly)</p>
+    <img src="img/levels.png" alt="levels" class="features-img">
+    <p class="note">(This is the level selection menu)</p>
 </div>
 
 <div class="links">
     <h1 class="links-title">Find this project</h1>
 
-    <a href="https://namemc.com/server/hitw.minesr.com" target="_blank" rel="noopener noreferrer">
-        <img src="img/ip.png" alt="ip" class="links-img">
-    </a>
-
-    <a href="https://github.com/Blackoutburst/HitW-plugin" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/Blackoutburst/FallingSquare" target="_blank" rel="noopener noreferrer">
         <img src="img/github.png" alt="github" class="links-img">
-    </a>
-
-    <a href="javacript:void(0)" target="_blank" rel="noopener noreferrer">
-        <img src="img/youtube.png" alt="youtube" class="links-img">
     </a>
 </div>
 
@@ -100,8 +63,8 @@
         <img src="img/java.png" alt="java" class="links-img">
     </a>
 
-    <a href="https://www.spigotmc.org/" target="_blank" rel="noopener noreferrer">
-        <img src="img/spigot.png" alt="spigot" class="links-img">
+    <a href="https://www.android.com/" target="_blank" rel="noopener noreferrer">
+        <img src="img/android.png" alt="spigot" class="links-img">
     </a>
 </div>
 
