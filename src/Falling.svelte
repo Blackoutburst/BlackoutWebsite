@@ -18,13 +18,13 @@
 <div class="about">
     <h1 class="about-title">About this project</h1>
     <p>
-        This project was made somewhere in 2020<br>
+        This project was done somewhere in 2020<br>
         We had to do a small project of our choice in school, and I decided to start this<br>
         <br>
-        I eventually started addind a lot of levels as it was fun to do<br>
-        But in the end the project got abandoned<br>
+        I eventually started adding a lot of levels as it was fun to do<br>
+        But in the end the project got abandoned due to lack of motivation and ideas<br>
         <br>
-        I think it still deserve to be shown here but this will never be a finished project
+        I think it still deserves to be shown here, but this will never be a finished project
     </p>
 </div>
 
@@ -32,17 +32,17 @@
     <h1 class="features-title">Features</h1>
     <p>
         In this game you move your player using the phone gyroscope<br>
-        This create an unique way of playing the game but make the game harder<br>
+        This creates a unique way of playing the game but make the game harder<br>
         <br>
         On each level you spawn on a purple square and need to reach the green one<br>
-        To unlock the exit you need to collect 3 coins placed inside every level<br>
-        And if you hit any wall you die and need to restart the level<br>
+        To unlock the exit, you need to collect 3 coins placed inside every level<br>
+        And if you hit any wall, you die and need to restart the level<br>
     </p>
     <img src="img/game.png" alt="game" class="features-img">
     <p class="note">(A simple screenshot of the game)</p>
     <p>
-        This game should have featured 100 level but only 50 were built before being abandonned<br>
-        Once you finish a level you unlock the next one
+        This game should have featured 100 levels but only 50 were built before being abandoned<br>
+        Once you finish a level, you unlock the next one
     </p>
     <img src="img/levels.png" alt="levels" class="features-img">
     <p class="note">(This is the level selection menu)</p>
