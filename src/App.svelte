@@ -19,7 +19,6 @@
         <br>
         I go by He/Him, people usually call me Blackout so feel free to do as well!<br>
         You can find some of my projects below!
-
     </p>
 </div>
 
@@ -47,6 +46,10 @@
 
     <a href="pixel.html">
         <img src="img/ps.jpg" alt="ps" class="project-img">
+    </a>
+
+    <a href="falling.html">
+        <img src="img/falling.jpg" alt="falling" class="project-img">
     </a>
 
     <p class="note">(Most of my projects are on Github, only a few are listed here so recommend you to check it below)</p>
