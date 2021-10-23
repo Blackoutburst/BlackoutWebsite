@@ -1,11 +1,13 @@
 <div class="navbar">
     <a href="index.html"><img src="img/pfp.jpg" alt="logo" class="nav-icon" style="border-radius: 50%"></a>
+    <a href="wally.html"><img src="img/wally.png" alt="wally" class="nav-icon"></a>
     <a href="hitw.html"><img src="img/hitw.png" alt="hitw" class="nav-icon"></a>
     <a href="quake.html"><img src="img/quake.png" alt="quake" class="nav-icon"></a>
     <a href="aow.html"><img src="img/aow.png" alt="aow" class="nav-icon"></a>
     <a href="pong.html"><img src="img/pong.png" alt="pong" class="nav-icon"></a>
     <a href="pixel.html"><img src="img/pixel.png" alt="ps" class="nav-icon" style="border-radius: 20px"></a>
     <a href="falling.html"><img src="img/falling.png" alt="falling" class="nav-icon"></a>
+    <a href="bme.html"><img src="img/bme.png" alt="bme" class="nav-icon"></a>
 </div>
 
 <header>

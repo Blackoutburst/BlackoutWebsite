@@ -52,6 +52,10 @@
         <img src="img/falling.jpg" alt="falling" class="project-img">
     </a>
 
+    <a href="bme.html">
+        <img src="img/bme.jpg" alt="bme" class="project-img">
+    </a>
+
     <p class="note">(Most of my projects are on Github, only a few are listed here so recommend you to check it below)</p>
 
 </div>

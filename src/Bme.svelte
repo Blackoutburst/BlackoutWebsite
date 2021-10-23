@@ -12,48 +12,53 @@
 
 <header>
     <div class="header">
-        <img src="img/falling.png" alt="logo" class="logo">
-        <p class="title">Falling Square</p>
+        <img src="img/bme.png" alt="logo" class="logo">
+        <p class="title">B.M.E</p>
     </div>
 </header>
 
 <div class="about">
     <h1 class="about-title">About this project</h1>
     <p>
-        This project was done somewhere in 2020<br>
-        We had to do a small project of our choice in school, and I decided to start this<br>
+        Blackoutburst Map Editor aka B.M.E<br>
+        Is a project made somewhere in 2018<br>
         <br>
-        I eventually started adding a lot of levels as it was fun to do<br>
-        But in the end the project got abandoned due to lack of motivation and ideas<br>
+        I've made it because I wanted to see if I could do a map editor<br>
+        It never really got big, full of features, but that was the best I could do back in the days<br>
         <br>
-        I think it still deserves to be shown here, but this will never be a finished project
+        Today this editor only has a personal use purpose and got used in some of my projects<br>
     </p>
 </div>
 
 <div class="features">
     <h1 class="features-title">Features</h1>
     <p>
-        In this game you move your player using the phone gyroscope<br>
-        This creates a unique way of playing the game but make the game harder<br>
-        <br>
-        On each level you spawn on a purple square and need to reach the green one<br>
-        To unlock the exit, you need to collect 3 coins placed inside every level<br>
-        And if you hit any wall, you die and need to restart the level<br>
+        All features are explained on the <a href="https://github.com/Blackoutburst/Black-Map-Editor" target="_blank" rel="noopener noreferrer">GitHub</a><br>
+        So I'm not really going to go in details here<br>
+        We can load and save maps toggle a bunch of things rotate tiles and so on
     </p>
-    <img src="img/game.png" alt="game" class="features-img">
-    <p class="note">(A simple screenshot of the game)</p>
+    <img src="img/bme1.png" alt="bme1" class="features-img">
+    <p class="note">(Main editor view)</p>
+
     <p>
-        This game should have featured 100 levels but only 50 were built before being abandoned<br>
-        Once you finish a level, you unlock the next one
+        We can change the skybox to pretty much everything we want<br>
+        And place light that cast shadow in real time if we move them
     </p>
-    <img src="img/levels.png" alt="levels" class="features-img">
-    <p class="note">(This is the level selection menu)</p>
+    <img src="img/bme2.png" alt="bme2" class="features-img">
+    <p class="note">(On the left side we can see our tiles and on the right side our skybox)</p>
+    <p>
+        We can load our own tiles texture and skybox<br>
+        And show multiples information on how big the map is or even the grid placement
+    </p>
+    <img src="img/bme3.png" alt="bme3" class="features-img">
+    <p class="note">(Blue means background tiles red means solid tiles and green is decoration or light)</p>
+
 </div>
 
 <div class="links">
     <h1 class="links-title">Find this project</h1>
 
-    <a href="https://github.com/Blackoutburst/FallingSquare" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/Blackoutburst/Black-Map-Editor" target="_blank" rel="noopener noreferrer">
         <img src="img/github.png" alt="github" class="links-img">
     </a>
 </div>
@@ -65,8 +70,8 @@
         <img src="img/java.png" alt="java" class="links-img">
     </a>
 
-    <a href="https://www.android.com/" target="_blank" rel="noopener noreferrer">
-        <img src="img/android.png" alt="spigot" class="links-img">
+    <a href="https://www.lwjgl.org/" target="_blank" rel="noopener noreferrer">
+        <img src="img/lwjgl.png" alt="lwjgl" class="links-img">
     </a>
 </div>
 
@@ -80,6 +85,20 @@
 @font-face {
   font-family: customFontCoda;
   src: url("../font/coda.ttf");
+}
+
+@media only screen and (min-width: 1200px) {
+    .features-vid {
+        width: 60vw;
+        height: calc(60vw * 9 / 16);
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .features-vid {
+        width: 50vw;
+        height: calc(50vw * 9 / 16);
+    }
 }
 
 @media only screen and (max-width: 1200px) {
