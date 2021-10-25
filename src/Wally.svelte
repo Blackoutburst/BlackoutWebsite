@@ -55,7 +55,7 @@
     <p>
         Track user high score in real time<br>
         For this Wally use a personal database of every member on the discord server<br>
-        Then on a regular basis compare his database score with user score inside the Hypixel API
+        Then on a regular basis compares his database score with user score inside the Hypixel API
     </p>
     <img src="img/track.png" alt="track" class="features-img">
     <p class="note">(This is the first person to ever reach 450+ :O)</p>

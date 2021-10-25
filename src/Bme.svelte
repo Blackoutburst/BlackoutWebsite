@@ -23,7 +23,7 @@
         Blackoutburst Map Editor aka B.M.E<br>
         Is a project made somewhere in 2018<br>
         <br>
-        I've made it because I wanted to see if I could do a map editor<br>
+        I made it because I wanted to see if I could do a map editor<br>
         It never really got big, full of features, but that was the best I could do back in the days<br>
         <br>
         Today this editor only has a personal use purpose and got used in some of my projects<br>
@@ -41,8 +41,8 @@
     <p class="note">(Main editor view)</p>
 
     <p>
-        We can change the skybox to pretty much everything we want<br>
-        And place light that cast shadow in real time if we move them
+        We can change the skybox to pretty much anything we want<br>
+        And place lights that cast shadows in real time if we move them
     </p>
     <img src="img/bme2.png" alt="bme2" class="features-img">
     <p class="note">(On the left side we can see our tiles and on the right side our skybox)</p>

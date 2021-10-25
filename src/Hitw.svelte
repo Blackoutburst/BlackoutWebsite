@@ -21,7 +21,7 @@
     <h1 class="about-title">About this project</h1>
     <p>
         This project started around November 2020<br>
-        At first this was just a joke about a dream of a player (<a href="https://hypixel.net/members/hammyinthewall.154763/" target="_blank" rel="noopener noreferrer">HammyInTheWall</a>) had<br>
+        At first this was just a joke about a dream that a player (<a href="https://hypixel.net/members/hammyinthewall.154763/" target="_blank" rel="noopener noreferrer">HammyInTheWall</a>) had<br>
         This dream was a joke version of the game, so I started making this for fun<br>
         <br>
         Later I realized I was able to work on something real instead of a joke dream<br>
@@ -31,7 +31,7 @@
         You do not compete against players but instead have access to a bunch of options<br>
         The whole point of this was to create a place to train and experiment<br>
         <br>
-        Today this plugin run on our community server and have seen a bunch of improvements<br>
+        Today this plugin is run on our community server and has seen a bunch of improvements<br>
         New functionality got added on people demands such as duels and custom walls<br>
     </p>
 </div>

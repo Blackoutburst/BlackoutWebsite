@@ -14,7 +14,7 @@
         Today I'm still working mainly on Minecraft projects that I enjoy.<br>
         I used to do games/software with LWJGL and Slick2D.<br>
         <br>
-        I'm a student currently doing my 3rd year inside a computer science university.<br>
+        I'm a student currently doing my 3rd year at a computer science university.<br>
         Currently working on spigot/bukkit plugins with the goal of working at Hypixel.<br>
         <br>
         I go by He/Him, people usually call me Blackout so feel free to do as well!<br>

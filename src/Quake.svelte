@@ -50,7 +50,7 @@
 
     <p>
         The gun customisation menu, this screenshot is only the main page<br>
-        It is divided in 3 parts the gun item, the explosion shape and explosion color
+        It is divided in 3 parts: the gun item, the explosion shape and explosion color
     </p>
     <img src="img/quake-menu.png" alt="menu" class="features-img">
     <p class="note">(Like I said this wasn't supposed to be a feature but whatever)</p>

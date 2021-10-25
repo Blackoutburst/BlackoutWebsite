@@ -33,8 +33,8 @@
 <div class="features">
     <h1 class="features-title">Features</h1>
     <p>
-        In this game you move your player using the phone gyroscope<br>
-        This creates a unique way of playing the game but make the game harder<br>
+        In this game you move your player using the phone's gyroscope<br>
+        This creates a unique way of playing the game but makes the game harder<br>
         <br>
         On each level you spawn on a purple square and need to reach the green one<br>
         To unlock the exit, you need to collect 3 coins placed inside every level<br>

@@ -47,7 +47,7 @@
         Particles, on the other hands, are just some texture with additive colors blending<br>
         <br>
         The bots know where to go using a ghost ball system running at full speed<br>
-        This ghost ball work like the real ball to determine where the real ball is going to hit<br>
+        This ghost ball works like the real ball to determine where the real ball is going to hit<br>
     </p>
 
     <img src="img/old-pong.png" alt="old" class="features-img">

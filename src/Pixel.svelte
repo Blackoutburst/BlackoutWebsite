@@ -21,23 +21,23 @@
     <h1 class="about-title">About this project</h1>
     <p>
         This project does and will always have a special place in my heart for multiple reasons<br>
-        It's not the best game ever made I know that but it's my first game ever published<br>
+        It's not the best game ever made, I know that, but it's my first game ever published<br>
         <br>
         The story of this game is actually longer than expected as it first started in early 2018<br>
         At first it was supposed to be a project for my highschool that actually never happened<br>
         So the project got recycled with different friends for a specific test that counted for our graduation<br>
-        Then once this test finished, I've decided to continue this game on my own, it was a pc game at first<br>
+        Then once this test finished, I decided to continue the game on my own, it was a pc game at first<br>
         <br>
-        So i mainly worked on this game for fun during my last highschool year<br>
-        Leading many of my classmate to play this instead of following classes (oops)<br>
+        So I mainly worked on this game for fun during my last highschool year<br>
+        Leading many of my classmates to play this instead of following classes (oops)<br>
         <br>
         Once done with highschool I decided once again to rework the full game and made it for Android devices<br>
-        It was the first time I had ever created something for a mobile device it's was not really easy at first<br>
+        It was the first time I had ever created something for a mobile device and was not really easy at first<br>
         <br>
         The android version of the game mainly got developed during summer vacation<br>
-        And in march 2020 during my first university year i published the game on the Google Play Store<br>
+        And in march 2020 during my first university year I published the game on the Google Play Store<br>
         <br>
-        Even if the game is kinda small and not that great compared to what I could do I'm still happy<br>
+        Even if the game is kinda small and not that great, compared to what I could do I'm still happy<br>
         And I can flex the fact that I published a game on my own at 18
     </p>
 </div>
@@ -48,7 +48,7 @@
         The pc version is completely discontinued after I've lost the original source code when switching pc...<br>
         The only code I do have is a decompiled code thanks to my father who saved my game on his pc<br>
         <br>
-        The pc version had two difficulty level with the hard one being unlocked when reaching 10K score<br>
+        The pc version had two difficulty levels with the hard one being unlocked when reaching 10K score<br>
         Here is some footage of the hard difficulty<br>
         <br>
         <iframe class="features-vid" src="https://www.youtube.com/embed/-GN7ydcBJl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -56,7 +56,7 @@
     <p class="note">(It's actually really hard you have no idea and thanks god I was playing with a controller)</p>
 
     <p>
-        On this version this is also where I tested random things such as bots playing the game<br>
+        On this version I also tested random things such as bots playing the game<br>
         And how to explain I was not really good at making AI but eh they still play better than some people (hello parents)<br>
         <br>
         <iframe class="features-vid" src="https://www.youtube.com/embed/rRL9PJ5FLkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -64,7 +64,7 @@
     <p class="note">(The two bots actually share the same AI just one never stop moving)</p>
 
     <p>
-        And finally there was the final version of this game for the pc version not much changed compared to the other two video<br>
+        And finally there was the final version of this game for the pc version not much changed compared to the other two videos<br>
         Ameliorations are better lighting effect on lasers (too much actually) annoying sounds effects and that basically it<br>
         <br>
         <iframe class="features-vid" src="https://www.youtube.com/embed/R_sXonlx6NE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
