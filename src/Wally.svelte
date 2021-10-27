@@ -38,7 +38,7 @@
         Stats are obtained using the Hypixel API
     </p>
     <img src="img/stats.png" alt="stats" class="features-img">
-    <p class="note">(These are my stats for example)</p>
+    <p class="note">(These are the Hole in the Wall stats of the game legend's)</p>
 
     <p>
         You can compare player stats
@@ -66,13 +66,24 @@
         Most features are similar only the header is different and the stats tracked as well
     </p>
     <img src="img/pstats.png" alt="pstats" class="features-img">
-    <p class="note">(For example these are my practice stats)</p>
+    <p class="note">(For example here are someone stats on the practice server)</p>
     <p>
         Practice server stats also support comparisons and leaderboard but not any tracker for new personal best<br>
         Instead, there is a graph than can go up to the last 100 games a player played
     </p>
     <img src="img/pgraph.png" alt="pgraph" class="features-img">
     <p class="note">(Here are my last 20 finals games, we can display from 2 to 100 games)</p>
+
+    <p>
+        And finally the long awaited feature from the community, profile customisation<br>
+        Everyone can change their background, font and font color to create unique profile
+    </p>
+    <img src="img/s1.png" alt="s1" class="features-img">
+    <img src="img/s2.png" alt="s2" class="features-img">
+    <img src="img/c1.png" alt="c1" class="features-img">
+    <img src="img/c2.png" alt="c2" class="features-img">
+    <img src="img/s3.png" alt="s3" class="features-img">
+    <p class="note">(I think you get the idea)</p>
 </div>
 
 <div class="links">
