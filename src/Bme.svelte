@@ -150,7 +150,7 @@
 
 @media only screen and (min-width: 1200px) {
     .features-img {
-        max-width: 30%;
+        max-width: 50%;
     }
 }
 

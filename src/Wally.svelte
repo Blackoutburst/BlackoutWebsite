@@ -78,11 +78,11 @@
         And finally the long awaited feature from the community, profile customisation<br>
         Everyone can change their background, font and font color to create unique profile
     </p>
-    <img src="img/s1.png" alt="s1" class="features-img">
-    <img src="img/s2.png" alt="s2" class="features-img">
-    <img src="img/c1.png" alt="c1" class="features-img">
-    <img src="img/c2.png" alt="c2" class="features-img">
-    <img src="img/s3.png" alt="s3" class="features-img">
+    <img src="img/s1.png" alt="s1" class="features-img-custom">
+    <img src="img/s2.png" alt="s2" class="features-img-custom">
+    <img src="img/c1.png" alt="c1" class="features-img-custom">
+    <img src="img/c2.png" alt="c2" class="features-img-custom">
+    <img src="img/s3.png" alt="s3" class="features-img-custom">
     <p class="note">(I think you get the idea)</p>
 </div>
 
@@ -169,9 +169,22 @@
     }
 }
 
+
+@media only screen and (min-width: 1200px) {
+    .features-img-custom {
+        max-width: 30%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .features-img-custom {
+        max-width: 80%;
+    }
+}
+
 @media only screen and (min-width: 1200px) {
     .features-img {
-        max-width: 30%;
+        max-width: 50%;
     }
 }
 

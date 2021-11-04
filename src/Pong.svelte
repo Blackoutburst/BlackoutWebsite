@@ -32,6 +32,7 @@
 </div>
 
 <div class="features">
+
     <h1 class="features-title">Features</h1>
     <p>
         Talking about features here is a bit strange because it's literally a pong game<br>
@@ -39,6 +40,7 @@
     </p>
 
     <h1 class="features-title">Java version 2019 (LWJGL)</h1>
+    <iframe class="features-vid" src="https://www.youtube.com/embed/HrEQaj-_Z4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>
         This version actually works like a real pong game, by that I mean it's possible to score<br>
         But keeping the game this way made it almost impossible to sync correctly with the song<br>
@@ -55,10 +57,6 @@
 
     <div class="links">
         <h1 class="links-title">Find this version</h1>
-
-        <a href="https://www.youtube.com/watch?v=HrEQaj-_Z4E" target="_blank" rel="noopener noreferrer">
-            <img src="img/youtube.png" alt="youtube" class="links-img">
-        </a>
 
         <a href="https://github.com/Blackoutburst/Pong-song-sync" target="_blank" rel="noopener noreferrer">
             <img src="img/github.png" alt="github" class="links-img">
@@ -78,6 +76,7 @@
     </div>
 
     <h1 class="features-title">C# version 2020 (Unity)</h1>
+    <iframe class="features-vid" src="https://www.youtube.com/embed/q3KTWuEAKY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>
         This version only exist because i wanted to try something with Unity and had no idea<br>
         In this version there are a few modifications such as:<br>
@@ -97,10 +96,6 @@
 
 <div class="links">
     <h1 class="links-title">Find this project</h1>
-
-    <a href="https://www.youtube.com/watch?v=q3KTWuEAKY0" target="_blank" rel="noopener noreferrer">
-        <img src="img/youtube.png" alt="youtube" class="links-img">
-    </a>
 
     <a href="https://github.com/Blackoutburst/Rhythm-Pong" target="_blank" rel="noopener noreferrer">
         <img src="img/github.png" alt="github" class="links-img">
@@ -129,6 +124,20 @@
 @font-face {
   font-family: customFontCoda;
   src: url("../font/coda.ttf");
+}
+
+@media only screen and (min-width: 1200px) {
+    .features-vid {
+        width: 60vw;
+        height: calc(60vw * 9 / 16);
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .features-vid {
+        width: 50vw;
+        height: calc(50vw * 9 / 16);
+    }
 }
 
 @media only screen and (max-width: 1200px) {
@@ -180,7 +189,7 @@
 
 @media only screen and (min-width: 1200px) {
     .features-img {
-        max-width: 30%;
+        max-width: 50%;
     }
 }
 

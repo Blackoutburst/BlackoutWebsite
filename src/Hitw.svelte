@@ -37,13 +37,20 @@
 </div>
 
 <div class="features">
+
+    <h1 class="features-title">Demo</h1>
+    <iframe class="features-vid" src="https://www.youtube.com/embed/yPd0cWm1Kbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     <h1 class="features-title">Features</h1>
     <p>
         I really don't have much to explain here about this plugins features<br>
         Everything is already explained on the <a href="https://github.com/Blackoutburst/HitW-plugin" target="_blank" rel="noopener noreferrer">GitHub</a> of this project<br>
         <br>
+        <iframe class="features-vid" src="https://www.youtube.com/embed/J37SzCiMifc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br><br>
         The Hole in the Wall game is the main features all you do is play freely<br>
     </p>
+
     <img src="img/hitw-game.png" alt="game" class="features-img">
     <p class="note">(Game screenshot on the current map)</p>
     <p>
@@ -89,10 +96,6 @@
     <a href="https://github.com/Blackoutburst/HitW-plugin" target="_blank" rel="noopener noreferrer">
         <img src="img/github.png" alt="github" class="links-img">
     </a>
-
-    <a href="javacript:void(0)" target="_blank" rel="noopener noreferrer">
-        <img src="img/youtube.png" alt="youtube" class="links-img">
-    </a>
 </div>
 
 <div class="links">
@@ -117,6 +120,20 @@
 @font-face {
   font-family: customFontCoda;
   src: url("../font/coda.ttf");
+}
+
+@media only screen and (min-width: 1200px) {
+    .features-vid {
+        width: 60vw;
+        height: calc(60vw * 9 / 16);
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .features-vid {
+        width: 50vw;
+        height: calc(50vw * 9 / 16);
+    }
 }
 
 @media only screen and (max-width: 1200px) {
@@ -168,7 +185,7 @@
 
 @media only screen and (min-width: 1200px) {
     .features-img {
-        max-width: 30%;
+        max-width: 50%;
     }
 }
 
