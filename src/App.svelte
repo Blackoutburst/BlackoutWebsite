@@ -24,8 +24,8 @@
 
 <div class="pr">
 
-    <a href="wally.html">
-        <img src="img/wally.jpg" alt="wally" class="project-img">
+    <a href="https://github.com/Blackoutburst/AoW-plugin" target="_blank" rel="noopener noreferrer">
+        <img src="img/aow.jpg" alt="aow" class="project-img">
     </a>
 
     <a href="hitw.html">
@@ -36,8 +36,8 @@
         <img src="img/quake.jpg" alt="quake" class="project-img">
     </a>
 
-    <a href="https://github.com/Blackoutburst/AoW-plugin" target="_blank" rel="noopener noreferrer">
-        <img src="img/aow.jpg" alt="aow" class="project-img">
+    <a href="wally.html">
+        <img src="img/wally.jpg" alt="wally" class="project-img">
     </a>
 
     <a href="pong.html">
