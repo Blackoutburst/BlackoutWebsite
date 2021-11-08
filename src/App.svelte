@@ -24,7 +24,7 @@
 
 <div class="pr">
 
-    <a href="aow.html" target="_blank" rel="noopener noreferrer">
+    <a href="aow.html">
         <img src="img/aow.jpg" alt="aow" class="project-img">
     </a>
 
