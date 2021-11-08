@@ -24,7 +24,7 @@
 
 <div class="pr">
 
-    <a href="https://github.com/Blackoutburst/AoW-plugin" target="_blank" rel="noopener noreferrer">
+    <a href="aow.html" target="_blank" rel="noopener noreferrer">
         <img src="img/aow.jpg" alt="aow" class="project-img">
     </a>
 
