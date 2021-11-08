@@ -38,7 +38,7 @@
 <div class="features">
 
     <h1 class="features-title">Demo</h1>
-    Coming soon
+    <iframe class="features-vid" src="https://www.youtube.com/embed/Fy0pyhpQIkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <h1 class="features-title">Features</h1>
     <p>
         For this section I will mainly repeat everything said on the <a href="https://github.com/Blackoutburst/AoW-plugin" target="_blank" rel="noopener noreferrer">GitHub</a><br>
