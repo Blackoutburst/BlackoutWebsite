@@ -9,15 +9,15 @@
     <h1 class="bio-title">Welcome !</h1>
     <p>
         Hi, I'm Blackoutburst and I'm mainly a Java programmer.<br>
-        I started programming a while ago doing small Minecraft mods.<br>
+        I started programming in 2015 doing small Minecraft mods.<br>
         <br>
         Today I'm still working mainly on Minecraft projects that I enjoy.<br>
         I used to do games/software with LWJGL and Slick2D.<br>
         <br>
-        I'm a student currently doing my 3rd year at a computer science university.<br>
-        Currently working on spigot/bukkit plugins with the goal of working at Hypixel.<br>
+        I'm currently a 3rd year student at a computer science university.<br>
+        Currently working on spigot/bukkit plugins aiming to work at Hypixel.<br>
         <br>
-        I go by He/Him, people usually call me Blackout so feel free to do as well!<br>
+        I go by He/Him, peolpe usually call me Blackout so feel free to do as well!<br>
         You can find some of my projects below!
     </p>
 </div>
