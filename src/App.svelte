@@ -93,8 +93,8 @@
 
 <script>
 function clipboard() {
-    navigator.clipboard.writeText("Blackoutburst#0900");
-    alert("Discord copied inside the clipboard: Blackoutburst#0900");
+    navigator.clipboard.writeText("Blackoutburst#9593");
+    alert("Discord copied inside the clipboard: Blackoutburst#9593");
 }
 </script>
 
