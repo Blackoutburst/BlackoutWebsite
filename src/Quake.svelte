@@ -29,8 +29,8 @@
         And since I'm just adding new features based on player request such as kill sounds and trigger/dash speed<br>
     </p>
 
-    <img src="img/rackals-quote.png" alt="railgun" class="features-img"><br>
-    <img src="img/galiano-quote.png" alt="railgun" class="features-img">
+    <img src="img/rackals-quote.png" alt="rackals-quote" class="features-img"><br>
+    <img src="img/galiano-quote.png" alt="galiano-quote" class="features-img">
 
 </div>
 
