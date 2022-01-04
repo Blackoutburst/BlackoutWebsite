@@ -25,13 +25,19 @@
         Turns out it was really easy to do so this project was made in less than a week<br>
         <br>
         At first it wasn't supposed to have gun customisation but some friends asked for it<br>
-        So yeah, just a simple plugin made for my own learning experience
+        A bit later on Rackals one of the biggest Hypixel QuakeCraft player asked for multiples map support<br>
+        And since I'm just adding new features based on player request such as kill sounds and trigger/dash speed<br>
     </p>
+
+    <img src="img/rackals-quote.png" alt="railgun" class="features-img"><br>
+    <img src="img/galiano-quote.png" alt="railgun" class="features-img">
+
 </div>
 
 <div class="features">
 
     <h1 class="features-title">Demo</h1>
+    This is a raw footage video I'm sorry, the real preview video is W.I.P
     <iframe class="features-vid" src="https://www.youtube.com/embed/-bWFTFtxhPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h1 class="features-title">Features</h1>
@@ -40,19 +46,32 @@
         But the main ones are obviously the Railgun and the dash mechanics
     </p>
     <img src="img/railgun.png" alt="railgun" class="features-img">
-    <p class="note">(Railgun in action)</p>
+    <p class="note">(During a game from my POV)</p>
 
     <p>
         Full game only solo mode, first one to 25 point win the game
     </p>
-    <img src="img/quake-game.png" alt="game" class="features-img">
+    <img src="img/quake-game.png" alt="game" class="features-img"><br>
+    <img src="img/quake-scoreboard.png" alt="game" class="features-img">
+    <img src="img/quake-chat.png" alt="game" class="features-img">
     <p class="note">(Yeah, I know it's literally Hypixel QuakeCraft at this point sorry)</p>
 
     <p>
-        The gun customisation menu, this screenshot is only the main page<br>
-        It is divided in 3 parts: the gun item, the explosion shape and explosion color
+        The gun customisation menu<br>
+        It is divided in 6 parts:<br>
+        - Main menu<br>
+        - Gun item menu<br>
+        - Explosion shape menu<br>
+        - Explosion color menu<br>
+        - Kill sound<br>
+        - Name color<br>
     </p>
     <img src="img/quake-menu.png" alt="menu" class="features-img">
+    <img src="img/quake-menu2.png" alt="menu" class="features-img"><br>
+    <img src="img/quake-menu3.png" alt="menu" class="features-img">
+    <img src="img/quake-menu4.png" alt="menu" class="features-img"><br>
+    <img src="img/quake-menu1.png" alt="menu" class="features-img">
+    <img src="img/quake-menu5.png" alt="menu" class="features-img">
     <p class="note">(Like I said this wasn't supposed to be a feature but whatever)</p>
 
 </div>
