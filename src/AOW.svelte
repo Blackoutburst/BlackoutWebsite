@@ -34,7 +34,7 @@
         And now let's just hope it was enough show off for getting the dream job<br>
     </p>
     <img src="img/khan-quote.png" alt="khan-quote" class="features-img">
-    <img src="img/venom-quote.png" alt="venom-quote" class="features-img">
+    <img src="img/venom-quote.PNG" alt="venom-quote" class="features-img">
 </div>
 
 <div class="features">
