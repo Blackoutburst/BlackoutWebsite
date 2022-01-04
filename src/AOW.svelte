@@ -33,6 +33,8 @@
         It made every people I know around me happy to see their childhood back<br>
         And now let's just hope it was enough show off for getting the dream job<br>
     </p>
+    <img src="img/khan-quote.png" alt="railgun" class="features-img">
+    <img src="img/venom-quote.png" alt="railgun" class="features-img">
 </div>
 
 <div class="features">
