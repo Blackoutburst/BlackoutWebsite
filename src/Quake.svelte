@@ -38,7 +38,7 @@
 
     <h1 class="features-title">Demo</h1>
     This is a raw footage video I'm sorry, the real preview video is W.I.P
-    <iframe class="features-vid" src="https://www.youtube.com/embed/-bWFTFtxhPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe class="features-vid" src="https://www.youtube.com/embed/rEMI-Klku4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     <h1 class="features-title">Features</h1>
     <p>
