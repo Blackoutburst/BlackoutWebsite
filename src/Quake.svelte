@@ -78,7 +78,7 @@
 
 <div class="links">
     <h1 class="links-title">Find this project</h1>
-
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://fr.namemc.com/server/173.208.97.173:35609/embed" width="728" height="90"></iframe>
     <a href="https://github.com/Blackoutburst/QuakeCraft" target="_blank" rel="noopener noreferrer">
         <img src="img/github.png" alt="github" class="links-img">
     </a>

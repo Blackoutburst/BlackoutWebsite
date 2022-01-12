@@ -88,11 +88,7 @@
 
 <div class="links">
     <h1 class="links-title">Find this project</h1>
-
-    <a href="https://namemc.com/server/hitw.minesr.com" target="_blank" rel="noopener noreferrer">
-        <img src="img/ip.png" alt="ip" class="links-img">
-    </a>
-
+    <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://fr.namemc.com/server/hitw.minesr.com/embed" width="728" height="90"></iframe>
     <a href="https://github.com/Blackoutburst/HitW-plugin" target="_blank" rel="noopener noreferrer">
         <img src="img/github.png" alt="github" class="links-img">
     </a>
