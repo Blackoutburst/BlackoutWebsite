@@ -74,6 +74,37 @@
     <img src="img/quake-menu5.png" alt="menu" class="features-img">
     <p class="note">(Like I said this wasn't supposed to be a feature but whatever)</p>
 
+    <p>
+        Launch pad that throw the player in the air, there is two type of launch pad:<br>
+        - Blue one that just send the player in the sky<br>
+        - Red one that send the player in the direction he is facing
+    </p>
+    <img src="img/launch-pad.png" alt="menu" class="features-img">
+    <p class="note">(This is a red launch pad inside our custom server lobby)</p>
+
+    <p>
+        The configuration menu<br>
+        This menu allow you to change the game behavior in many ways<br>
+        This allow the players to try out new ways to play QuakeCraft<br><br>
+        Current options are in order from left to right, bottom to top:<br>
+        - Trigger speed<br>
+        - Dash delay<br>
+        - Max score<br>
+        - Dash strength<br>
+        - Player speed<br>
+        - Jump boost<br>
+        - Slowness<br>
+        - Toggle blindness<br>
+        - Toggle invisibility<br>
+        - Toggle nametag<br>
+        - Toggle vertical dash<br>
+        - Toggle dash<br>
+        - Toggle walk<br>
+        - Toggle jump<br>
+    </p>
+    <img src="img/configuration-menu.png" alt="menu" class="features-img">
+    <p class="note">(The current configuration menu with all options)</p>
+
 </div>
 
 <div class="links">
