@@ -68,6 +68,10 @@
         <img src="img/discord.png" alt="discord" class="contact-img">
     </a>
 
+    <a href="https://www.patreon.com/Blackoutburst" target="_blank" rel="noopener noreferrer">
+        <img src="img/patreon.png" alt="patreon" class="contact-img">
+    </a>
+
     <a href="https://github.com/Blackoutburst" target="_blank" rel="noopener noreferrer">
         <img src="img/github.png" alt="github" class="contact-img">
     </a>
