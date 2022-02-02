@@ -19,7 +19,7 @@
             <h4>Age of War</h4>
             <p>
                 Age of War is a Spigot plugin,
-                this plugin is base on the old flash game Age of War.
+                this plugin is based on the old flash game Age of War.
                 In this game 2 players fight each other with one goal, destroying the opponent base.
             </p>
     </a>
