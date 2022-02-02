@@ -128,7 +128,6 @@ button:focus {
     border-radius: 1em;
     width: 30%;
     background-color: #1b1b1b;
-    font-size: 160%;
     color: #70458f;
     box-shadow: 0 8px 10px 0 rgba(0,0,0,0.4);
 }
@@ -146,7 +145,7 @@ h4 {
     padding-left: 10px;
     color: #8a6dc5;
     -webkit-background-clip: text;
-    font-size: 20px;
+    font-size: 1.5vmax;
     font-weight: 400;
 }
 
@@ -154,7 +153,7 @@ p {
     margin: 0;
     padding: 10px;
     margin-right: 20%;
-    font-size: 16px;
+    font-size: 1vmax;
     color: #70458f;
 }
 
@@ -187,7 +186,7 @@ p {
     margin-right: 10%;
     padding: 20px;
 
-    font-size: 160%;
+    font-size: 1.5vmax;
     color: #70458f;
 }
 
@@ -201,7 +200,7 @@ p {
     text-align: center;
     color: #8a6dc5;
     -webkit-background-clip: text;
-    font-size: 40px;
+    font-size: 2vmax;
     font-weight: 400;
     padding-left: 30%;
     padding-right: 30%;
