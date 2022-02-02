@@ -25,12 +25,15 @@
 <div class="features">
     <img src="img/quake1.jpg" alt="project screenshot" style="width:100%">
 </div>
+
 <div class="features">
     <img src="img/quake2.jpg" alt="project screenshot" style="width:100%">
 </div>
+
 <div class="features">
     <img src="img/quake3.jpg" alt="project screenshot" style="width:100%">
 </div>
+
 <div class="features">
     <img src="img/quake4.jpg" alt="project screenshot" style="width:100%">
 </div>
@@ -59,7 +62,6 @@
             <img src="img/spigot.png" alt="spigot" style="width:100%">
         </a>
     </div>
-
 </div>
 
 <div class="footer">

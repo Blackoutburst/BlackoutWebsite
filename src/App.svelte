@@ -45,6 +45,8 @@
         </a>
     </div>
 </div>
+
+<!--
 <div class="project">
     <div class="card">
         <a href="wally.html">
@@ -92,7 +94,7 @@
         </a>
     </div>
 </div>
-
+-->
 <div class="title">Social links</div>
 
 <div class="contact">

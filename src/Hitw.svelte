@@ -9,9 +9,9 @@
 <div class="bio">
     Hole in the Wall is a Spigot plugin, based on the Hypixel game Hole in the wall.<br>
     It was made for training and community tournament purpose.<br>
-<br>
-This project features: a configuration menu, normal and custom wall, custom game mode<br>
-duel system, score saving accessible via an API and much more.
+    <br>
+    This project features: a configuration menu, normal and custom wall, custom game mode<br>
+    duel system, score saving accessible via an API and much more.
 </div>
 
 <div class="title">Video</div>
@@ -29,12 +29,15 @@ duel system, score saving accessible via an API and much more.
 <div class="features">
     <img src="img/hitw1.jpg" alt="project screenshot" style="width:100%">
 </div>
+
 <div class="features">
     <img src="img/hitw2.jpg" alt="project screenshot" style="width:100%">
 </div>
+
 <div class="features">
     <img src="img/hitw3.jpg" alt="project screenshot" style="width:100%">
 </div>
+
 <div class="features">
     <img src="img/hitw4.jpg" alt="project screenshot" style="width:100%">
 </div>
@@ -63,7 +66,6 @@ duel system, score saving accessible via an API and much more.
             <img src="img/spigot.png" alt="spigot" style="width:100%">
         </a>
     </div>
-
 </div>
 
 <div class="footer">

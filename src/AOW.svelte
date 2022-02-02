@@ -7,12 +7,12 @@
 <div class="title">Age of War</div>
 
 <div class="bio">
-Age of War is a Spigot plugin,
-this plugin is based on the old flash game Age of War.<br>
-In this game 2 players fight each other with one goal,
-destroying the opponent base.<br>
-<br>
-This project features: 18 units, 6 ages, 6 bases and 6 special attacks
+    Age of War is a Spigot plugin,
+    this plugin is based on the old flash game Age of War.<br>
+    In this game 2 players fight each other with one goal,
+    destroying the opponent base.<br>
+    <br>
+    This project features: 18 units, 6 ages, 6 bases and 6 special attacks
 </div>
 
 <div class="title">Video</div>
@@ -26,12 +26,15 @@ This project features: 18 units, 6 ages, 6 bases and 6 special attacks
 <div class="features">
     <img src="img/aow1.jpg" alt="project screenshot" style="width:100%">
 </div>
+
 <div class="features">
     <img src="img/aow2.jpg" alt="project screenshot" style="width:100%">
 </div>
+
 <div class="features">
     <img src="img/aow3.jpg" alt="project screenshot" style="width:100%">
 </div>
+
 <div class="features">
     <img src="img/aow4.jpg" alt="project screenshot" style="width:100%">
 </div>
@@ -59,7 +62,6 @@ This project features: 18 units, 6 ages, 6 bases and 6 special attacks
             <img src="img/spigot.png" alt="spigot" style="width:100%">
         </a>
     </div>
-
 </div>
 
 <div class="footer">
