@@ -32,7 +32,7 @@
     </div>
     <div class="card">
       <img src="img/quake.jpg" alt="project icon" style="width:100%" class="project-image">
-        <h4>Hole in the Wall</h4>
+        <h4>QuakeCraft</h4>
         <p>
             QuakeCraft is a Spigot plugin, based on the Hypixel QuakeCraft,
             this plugin was made for testing community maps and features.
