@@ -46,7 +46,7 @@
     </div>
 </div>
 
-<!--
+
 <div class="project">
     <div class="card">
         <a href="wally.html">
@@ -81,7 +81,7 @@
         </a>
     </div>
 </div>
-
+<!--
 <div class="project">
     <div class="card">
         <a href="bme.html">

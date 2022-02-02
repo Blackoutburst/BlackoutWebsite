@@ -23,19 +23,19 @@
 <div class="title">Screenshot</div>
 
 <div class="features">
-    <img src="img/quake1.jpg" alt="project screenshot" style="width:100%">
+    <img src="img/quake1.jpg" alt="project screenshot" style="width:100%" class="features-image">
 </div>
 
 <div class="features">
-    <img src="img/quake2.jpg" alt="project screenshot" style="width:100%">
+    <img src="img/quake2.jpg" alt="project screenshot" style="width:100%" class="features-image">
 </div>
 
 <div class="features">
-    <img src="img/quake3.jpg" alt="project screenshot" style="width:100%">
+    <img src="img/quake3.jpg" alt="project screenshot" style="width:100%" class="features-image">
 </div>
 
 <div class="features">
-    <img src="img/quake4.jpg" alt="project screenshot" style="width:100%">
+    <img src="img/quake4.jpg" alt="project screenshot" style="width:100%" class="features-image">
 </div>
 
 <div class="title">Project link</div>
