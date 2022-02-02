@@ -1,95 +1,127 @@
 <header>
     <div class="header">
         <img src="img/pfp.jpg" alt="myLogo" class="logo">
-        <p class="title">BLACKOUTBURST</p>
     </div>
 </header>
 
+<div class="title">Welcome !</div>
+
 <div class="bio">
-    <h1 class="bio-title">Welcome !</h1>
-    <p>
-        Hi, I'm Blackoutburst and I'm mainly a Java programmer.<br>
-        I started programming in 2015 doing small Minecraft mods.<br>
-        <br>
-        Today I'm still working mainly on Minecraft projects that I enjoy.<br>
-        I used to do games/software with LWJGL and Slick2D.<br>
-        <br>
-        I'm currently a 3rd year student at a computer science university.<br>
-        Currently working on spigot/bukkit plugins aiming to work at Hypixel.<br>
-        <br>
-        I go by He/Him, peolpe usually call me Blackout so feel free to do as well!<br>
-        You can find some of my projects below!
-    </p>
+        Hi, I'm Blackoutburst, and I'm a Java programmer!<br>
+        I'm a 3rd-year student at a computer science university.<br>
+        Currently aiming to work at Hypixel!<br>
 </div>
 
-<div class="pr">
-
-    <a href="aow.html">
-        <img src="img/aow.jpg" alt="aow" class="project-img">
-    </a>
-
-    <a href="hitw.html">
-        <img src="img/hitw.jpg" alt="hitw" class="project-img">
-    </a>
-
-    <a href="quake.html">
-        <img src="img/quake.jpg" alt="quake" class="project-img">
-    </a>
-
-    <a href="wally.html">
-        <img src="img/wally.jpg" alt="wally" class="project-img">
-    </a>
-
-    <a href="pong.html">
-        <img src="img/pong.jpg" alt="pong" class="project-img">
-    </a>
-
-    <a href="pixel.html">
-        <img src="img/ps.jpg" alt="ps" class="project-img">
-    </a>
-
-    <a href="falling.html">
-        <img src="img/falling.jpg" alt="falling" class="project-img">
-    </a>
-
-    <a href="bme.html">
-        <img src="img/bme.jpg" alt="bme" class="project-img">
-    </a>
-
-    <p class="note">(Most of my projects are on Github, only a few are listed here so I recommend you to check it below)</p>
-
+<div class="project">
+    <div class="card">
+      <img src="img/aow.jpg" alt="project icon" style="width:100%" class="project-image">
+        <h4>Age of War</h4>
+        <p>
+            Age of War is a Spigot plugin,
+            this plugin is base on the old flash game Age of War.
+            In this game 2 players fight each other with one goal, destroying the opponent base.
+        </p>
+    </div>
+    <div class="card">
+      <img src="img/hitw.jpg" alt="project icon" style="width:100%" class="project-image">
+        <h4>Hole in the Wall</h4>
+        <p>
+            Hole in the Wall is a Spigot plugin, based on the Hypixel game Hole in the wall,
+            this plugin was made for training and community tournament purpose.
+        </p>
+    </div>
+    <div class="card">
+      <img src="img/quake.jpg" alt="project icon" style="width:100%" class="project-image">
+        <h4>Hole in the Wall</h4>
+        <p>
+            QuakeCraft is a Spigot plugin, based on the Hypixel QuakeCraft,
+            this plugin was made for testing community maps and features.
+        </p>
+    </div>
 </div>
+<div class="project">
+    <div class="card">
+      <img src="img/wally.jpg" alt="project icon" style="width:100%" class="project-image">
+        <h4>Wally</h4>
+        <p>
+            Wally is discord bot for Hypixel Hole in the Wall.<br>
+            He can check user stats and track them in real time.<br>
+            He is also linked to my own Hole in the Wall plugin.
+        </p>
+    </div>
+    <div class="card">
+      <img src="img/pong.jpg" alt="project icon" style="width:100%" class="project-image">
+        <h4>Rhythm Pong</h4>
+        <p>
+            This is a visual experiment between two bots
+            playing a game of pong following the rhythm of a song.
+        </p>
+    </div>
+    <div class="card">
+      <img src="img/ps.jpg" alt="project icon" style="width:100%" class="project-image">
+        <h4>Pixel Starship</h4>
+        <p>
+            Pixel Starship is a Android game,
+            in this game your goal is to go as far as possible.
+            This is also my first game ever published on the Play Store!
+        </p>
+    </div>
+</div>
+
+<div class="project">
+    <div class="card">
+      <img src="img/falling.jpg" alt="project icon" style="width:100%" class="project-image">
+        <h4>Falling Square</h4>
+        <p>
+            Falling Square is a Android game.
+            In this game you have to complete a set of levels
+            by moving the player using the phone gyroscope.
+        </p>
+    </div>
+    <div class="card">
+      <img src="img/bme.jpg" alt="project icon" style="width:100%" class="project-image">
+        <h4>B.M.E</h4>
+        <p>
+            B.M.E is a basic map editor, this editor focus on 2D maps.
+            It was made for personal uses and handle the basic tools necessary to create simple maps.
+        </p>
+    </div>
+</div>
+
+<div class="title">Social links</div>
 
 <div class="contact">
-    <h1 class="contact-title">How to find me</h1>
-
-
-    <a href="javacript:void(0)" on:click={clipboard}>
-        <img src="img/discord.png" alt="discord" class="contact-img">
-    </a>
-
-    <a href="https://www.patreon.com/Blackoutburst" target="_blank" rel="noopener noreferrer">
-        <img src="img/patreon.png" alt="patreon" class="contact-img">
-    </a>
-
-    <a href="https://github.com/Blackoutburst" target="_blank" rel="noopener noreferrer">
-        <img src="img/github.png" alt="github" class="contact-img">
-    </a>
-
-    <a href="https://www.youtube.com/channel/UCOmdNokN6UVeNhDfB61B_0A" target="_blank" rel="noopener noreferrer">
-        <img src="img/youtube.png" alt="youtube" class="contact-img">
-    </a>
-
-    <a href="https://fr.namemc.com/profile/b8ef1c76-15e0-4b95-8d47-4ca133561f5a" target="_blank" rel="noopener noreferrer">
-        <img src="img/minecraft.png" alt="github" class="contact-img">
-    </a>
-
-    <a href="https://steamcommunity.com/id/blackoutburst/" target="_blank" rel="noopener noreferrer">
-        <img src="img/steam.png" alt="github" class="contact-img">
-    </a>
+    <div class="contact-link">
+        <a href="javacript:void(0)" on:click={clipboard}>
+            <img src="img/discord.png" alt="discord" style="width:100%">
+        </a>
+    </div>
+    <div class="contact-link">
+        <a href="https://www.patreon.com/Blackoutburst" target="_blank" rel="noopener noreferrer">
+            <img src="img/patreon.png" alt="patreon" style="width:100%">
+        </a>
+    </div>
+    <div class="contact-link">
+        <a href="https://github.com/Blackoutburst" target="_blank" rel="noopener noreferrer">
+            <img src="img/github.png" alt="github" style="width:100%">
+        </a>
+    </div>
+    <div class="contact-link">
+        <a href="https://www.youtube.com/channel/UCOmdNokN6UVeNhDfB61B_0A" target="_blank" rel="noopener noreferrer">
+            <img src="img/youtube.png" alt="youtube" style="width:100%">
+        </a>
+    </div>
+    <div class="contact-link">
+        <a href="https://fr.namemc.com/profile/b8ef1c76-15e0-4b95-8d47-4ca133561f5a" target="_blank" rel="noopener noreferrer">
+            <img src="img/minecraft.png" alt="github" style="width:100%">
+        </a>
+    </div>
+    <div class="contact-link">
+        <a href="https://steamcommunity.com/id/blackoutburst/" target="_blank" rel="noopener noreferrer">
+            <img src="img/steam.png" alt="github" style="width:100%">
+        </a>
+    </div>
 </div>
-
-<div id="clipboard"></div>
 
 <div class="footer">
     <p class="footer-title">© Blackoutburst</p>
@@ -103,156 +135,12 @@ function clipboard() {
 </script>
 
 <style>
-@font-face {
-  font-family: customFontCoda;
-  src: url("../font/coda.ttf");
-}
-
-@media only screen and (max-width: 1200px) {
-    .contact-img {
-        max-width: 15vw;
-        padding: 10px;
-        margin: 10px;
-    }
-}
-
-@media only screen and (min-width: 1200px) {
-    .contact-img {
-        max-width: 7%;
-        padding: 10px;
-        margin: 10px;
-    }
-}
-
-.contact {
-    margin-top: 80px;
-    padding: 10px;
-    text-align: center;
-    color: white;
-}
-
-@media only screen and (min-width: 1200px) {
-    .contact-title {
-        font-family: customFontCoda;
-        font-weight: bold;
-        background: #bf00ff;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-size: 40px;
-        color: white;
-    }
-}
-
-@media only screen and (max-width: 1200px) {
-    .contact-title {
-        font-family: customFontCoda;
-        font-weight: bold;
-        background: #bf00ff;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-size: 5vw;
-        color: white;
-    }
-}
-
-@media only screen and (min-width: 1200px) {
-    .project-img {
-        max-width: 40%;
-        border-radius: 50px;
-        padding: 3px;
-        margin: 3px;
-    }
-}
-
-@media only screen and (max-width: 1200px) {
-    .project-img {
-        max-width: 40%;
-        border-radius: 20px;
-        padding: 3px;
-        margin: 3px;
-    }
-}
-
-.pr {
-    text-align:center;
-}
-
-@media only screen and (max-width: 1200px) {
-    .note {
-        text-align:center;
-        font-size: 3vw;
-        margin-left: 40px;
-        margin-right: 40px;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
-        font-style: italic;
-        color: #4f396e;
-        padding-top: 20px;
-    }
-}
-
-@media only screen and (min-width: 1200px) {
-    .note {
-        text-align:center;
-        font-size: 26px;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
-        font-style: italic;
-        color: #4f396e;
-        padding-top: 20px;
-    }
-}
-
-@media only screen and (max-width: 1200px) {
-    .bio {
-        text-align: center;
-        font-size: 3vw;
-        margin-left: 40px;
-        margin-right: 40px;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        color: #d4b5ff;
-        padding-bottom: 40px;
-    }
-}
-
-@media only screen and (min-width: 1200px) {
-    .bio {
-        text-align: center;
-        font-size: 26px;
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        color: #d4b5ff;
-        padding-bottom: 40px;
-    }
-}
-
-
-@media only screen and (min-width: 1200px) {
-    .bio-title {
-        background: #bf00ff;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-family: customFontCoda;
-        font-weight: bold;
-        font-size: 40px;
-        color: white;
-    }
-}
-
-@media only screen and (max-width: 1200px) {
-    .bio-title {
-        background: #bf00ff;
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-family: customFontCoda;
-        font-weight: bold;
-        font-size: 5vw;
-        color: white;
-    }
-}
 
 .logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 15vmax;
+    width: 30vmin;
     border-radius: 50%;
     border-style: solid;
     border-color: #bf00ff;
