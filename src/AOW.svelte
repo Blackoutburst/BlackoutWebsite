@@ -24,19 +24,19 @@
 <div class="title">Screenshot</div>
 
 <div class="features">
-    <img src="img/aow1.jpg" alt="project screenshot" style="width:100%">
+    <img src="img/aow1.jpg" alt="project screenshot" style="width:100%" class="features-image">
 </div>
 
 <div class="features">
-    <img src="img/aow2.jpg" alt="project screenshot" style="width:100%">
+    <img src="img/aow2.jpg" alt="project screenshot" style="width:100%" class="features-image">
 </div>
 
 <div class="features">
-    <img src="img/aow3.jpg" alt="project screenshot" style="width:100%">
+    <img src="img/aow3.jpg" alt="project screenshot" style="width:100%" class="features-image">
 </div>
 
 <div class="features">
-    <img src="img/aow4.jpg" alt="project screenshot" style="width:100%">
+    <img src="img/aow4.jpg" alt="project screenshot" style="width:100%" class="features-image">
 </div>
 
 <div class="title">Project link</div>

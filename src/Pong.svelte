@@ -7,7 +7,7 @@
 <div class="title">Rhythm Pong</div>
 
 <div class="bio">
-    This is a visual experiment between two bots
+    This is a visual experiment between two bots<br>
     playing a game of pong following the rhythm of a song.
 </div>
 
@@ -20,7 +20,7 @@
 <div class="title">Screenshot</div>
 
 <div class="features">
-    <img src="img/pong1.jpg" alt="project screenshot" style="width:100%">
+    <img src="img/pong1.jpg" alt="project screenshot" style="width:100%" class="features-image">
 </div>
 
 <div class="title">Project link</div>

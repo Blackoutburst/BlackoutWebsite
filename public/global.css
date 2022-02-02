@@ -91,11 +91,17 @@ button:focus {
 }
 
 .features {
-    padding: 1em;
     display: flex;
     justify-content: center;
     margin-left: 15%;
     margin-right: 15%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.features-image {
+    border-radius: 1em;
+    box-shadow: 0 8px 10px 0 rgba(0,0,0,0.4);
 }
 
 .project {
