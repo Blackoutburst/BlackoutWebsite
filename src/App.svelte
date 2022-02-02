@@ -82,17 +82,6 @@
 
 <div class="project">
     <div class="card">
-        <a href="falling.html">
-          <img src="img/falling.jpg" alt="project icon" style="width:100%" class="project-image">
-            <h4>Falling Square</h4>
-            <p>
-                Falling Square is a Android game.
-                In this game you have to complete a set of levels
-                by moving the player using the phone gyroscope.
-            </p>
-        </a>
-    </div>
-    <div class="card">
         <a href="bme.html">
           <img src="img/bme.jpg" alt="project icon" style="width:100%" class="project-image">
             <h4>B.M.E</h4>
