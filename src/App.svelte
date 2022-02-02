@@ -14,77 +14,93 @@
 
 <div class="project">
     <div class="card">
-      <img src="img/aow.jpg" alt="project icon" style="width:100%" class="project-image">
-        <h4>Age of War</h4>
-        <p>
-            Age of War is a Spigot plugin,
-            this plugin is base on the old flash game Age of War.
-            In this game 2 players fight each other with one goal, destroying the opponent base.
-        </p>
+        <a href="aow.html">
+          <img src="img/aow.jpg" alt="project icon" style="width:100%" class="project-image">
+            <h4>Age of War</h4>
+            <p>
+                Age of War is a Spigot plugin,
+                this plugin is base on the old flash game Age of War.
+                In this game 2 players fight each other with one goal, destroying the opponent base.
+            </p>
+    </a>
     </div>
     <div class="card">
-      <img src="img/hitw.jpg" alt="project icon" style="width:100%" class="project-image">
-        <h4>Hole in the Wall</h4>
-        <p>
-            Hole in the Wall is a Spigot plugin, based on the Hypixel game Hole in the wall,
-            this plugin was made for training and community tournament purpose.
-        </p>
+        <a href="hitw.html">
+          <img src="img/hitw.jpg" alt="project icon" style="width:100%" class="project-image">
+            <h4>Hole in the Wall</h4>
+            <p>
+                Hole in the Wall is a Spigot plugin, based on the Hypixel game Hole in the wall,
+                this plugin was made for training and community tournament purpose.
+            </p>
+        </a>
     </div>
     <div class="card">
-      <img src="img/quake.jpg" alt="project icon" style="width:100%" class="project-image">
-        <h4>QuakeCraft</h4>
-        <p>
-            QuakeCraft is a Spigot plugin, based on the Hypixel QuakeCraft,
-            this plugin was made for testing community maps and features.
-        </p>
+        <a href="quake.html">
+          <img src="img/quake.jpg" alt="project icon" style="width:100%" class="project-image">
+            <h4>QuakeCraft</h4>
+            <p>
+                QuakeCraft is a Spigot plugin, based on the Hypixel QuakeCraft,
+                this plugin was made for testing community maps and features.
+            </p>
+        </a>
     </div>
 </div>
 <div class="project">
     <div class="card">
-      <img src="img/wally.jpg" alt="project icon" style="width:100%" class="project-image">
-        <h4>Wally</h4>
-        <p>
-            Wally is discord bot for Hypixel Hole in the Wall.<br>
-            He can check user stats and track them in real time.<br>
-            He is also linked to my own Hole in the Wall plugin.
-        </p>
+        <a href="wally.html">
+          <img src="img/wally.jpg" alt="project icon" style="width:100%" class="project-image">
+            <h4>Wally</h4>
+            <p>
+                Wally is discord bot for Hypixel Hole in the Wall.<br>
+                He can check user stats and track them in real time.<br>
+                He is also linked to my own Hole in the Wall plugin.
+            </p>
+        </a>
     </div>
     <div class="card">
-      <img src="img/pong.jpg" alt="project icon" style="width:100%" class="project-image">
-        <h4>Rhythm Pong</h4>
-        <p>
-            This is a visual experiment between two bots
-            playing a game of pong following the rhythm of a song.
-        </p>
+        <a href="pong.html">
+          <img src="img/pong.jpg" alt="project icon" style="width:100%" class="project-image">
+            <h4>Rhythm Pong</h4>
+            <p>
+                This is a visual experiment between two bots
+                playing a game of pong following the rhythm of a song.
+            </p>
+        </a>
     </div>
     <div class="card">
-      <img src="img/ps.jpg" alt="project icon" style="width:100%" class="project-image">
-        <h4>Pixel Starship</h4>
-        <p>
-            Pixel Starship is a Android game,
-            in this game your goal is to go as far as possible.
-            This is also my first game ever published on the Play Store!
-        </p>
+        <a href="pixel.html">
+          <img src="img/ps.jpg" alt="project icon" style="width:100%" class="project-image">
+            <h4>Pixel Starship</h4>
+            <p>
+                Pixel Starship is a Android game,
+                in this game your goal is to go as far as possible.
+                This is also my first game ever published on the Play Store!
+            </p>
+        </a>
     </div>
 </div>
 
 <div class="project">
     <div class="card">
-      <img src="img/falling.jpg" alt="project icon" style="width:100%" class="project-image">
-        <h4>Falling Square</h4>
-        <p>
-            Falling Square is a Android game.
-            In this game you have to complete a set of levels
-            by moving the player using the phone gyroscope.
-        </p>
+        <a href="falling.html">
+          <img src="img/falling.jpg" alt="project icon" style="width:100%" class="project-image">
+            <h4>Falling Square</h4>
+            <p>
+                Falling Square is a Android game.
+                In this game you have to complete a set of levels
+                by moving the player using the phone gyroscope.
+            </p>
+        </a>
     </div>
     <div class="card">
-      <img src="img/bme.jpg" alt="project icon" style="width:100%" class="project-image">
-        <h4>B.M.E</h4>
-        <p>
-            B.M.E is a basic map editor, this editor focus on 2D maps.
-            It was made for personal uses and handle the basic tools necessary to create simple maps.
-        </p>
+        <a href="bme.html">
+          <img src="img/bme.jpg" alt="project icon" style="width:100%" class="project-image">
+            <h4>B.M.E</h4>
+            <p>
+                B.M.E is a basic map editor, this editor focus on 2D maps.
+                It was made for personal uses and handle the basic tools necessary to create simple maps.
+            </p>
+        </a>
     </div>
 </div>
 
@@ -128,22 +144,21 @@
 </div>
 
 <script>
-function clipboard() {
-    navigator.clipboard.writeText("Blackoutburst#7021");
-    alert("Discord copied inside the clipboard: Blackoutburst#7021");
-}
+    function clipboard() {
+        navigator.clipboard.writeText("Blackoutburst#7021");
+        alert("Discord copied inside the clipboard: Blackoutburst#7021");
+    }
 </script>
 
 <style>
-
-.logo {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30vmin;
-    border-radius: 50%;
-    border-style: solid;
-    border-color: #bf00ff;
-    border-width: 2px;
-}
+    .logo {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 30vmin;
+        border-radius: 50%;
+        border-style: solid;
+        border-color: #bf00ff;
+        border-width: 2px;
+    }
 </style>
