@@ -119,11 +119,6 @@
         </a>
     </div>
     <div class="contact-link">
-        <a href="https://fr.namemc.com/profile/b8ef1c76-15e0-4b95-8d47-4ca133561f5a" target="_blank" rel="noopener noreferrer">
-            <img src="img/minecraft.png" alt="github" style="width:100%">
-        </a>
-    </div>
-    <div class="contact-link">
         <a href="https://steamcommunity.com/id/blackoutburst/" target="_blank" rel="noopener noreferrer">
             <img src="img/steam.png" alt="github" style="width:100%">
         </a>

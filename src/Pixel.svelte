@@ -61,7 +61,7 @@
 
 <style>
     .logo {
-        border-radius: 5%;
+        border-radius: 1em;
         display: block;
         margin-left: auto;
         margin-right: auto;
