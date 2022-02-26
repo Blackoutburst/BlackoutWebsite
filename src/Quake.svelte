@@ -11,7 +11,7 @@
     this plugin was made for testing community maps and features.<br>
     <br>
     This project features: the full QuakeCraft game, cosmetic menu (6 menus, 78 items),<br>
-    a map selector, 60+ maps, 19 game settings, spawn point management system
+    a map selector, 70+ maps, 19 game settings, spawn point management system
 </div>
 
 <div class="title">Video</div>
