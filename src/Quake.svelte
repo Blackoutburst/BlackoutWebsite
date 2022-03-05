@@ -17,6 +17,10 @@
 <div class="title">Video</div>
 
 <div class="features">
+    <iframe class="features-vid" src="https://www.youtube.com/embed/oK-eeDDhNRs?list=LL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="features">
     <iframe class="features-vid" src="https://www.youtube.com/embed/rEMI-Klku4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
