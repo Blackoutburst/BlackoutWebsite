@@ -8,7 +8,7 @@
 
 <div class="bio">
         Hi, I'm Blackoutburst, and I'm a Java programmer!<br>
-        I mainly work on Minecraft related project and video game stuff.<br>
+        I mainly work on Minecraft and video game project.<br>
         Currently aiming to work at Hypixel!<br>
 </div>
 
