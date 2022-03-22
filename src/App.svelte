@@ -129,13 +129,22 @@
 </div>
 
 <script>
+    import Swal from 'sweetalert2'
+
     function clipboard() {
+
         navigator.clipboard.writeText("Blackoutburst#7021");
-        alert("Discord copied inside the clipboard: Blackoutburst#7021");
+        Swal.fire({title: 'Blackoutburst#7021',
+        text: 'Was copied inside the clipboard!',
+        background: '#202020',
+        color: '#70458f',
+        confirmButtonColor: '#7a51b5'});
     }
 </script>
 
+
 <style>
+
     .logo {
         display: block;
         margin-left: auto;
