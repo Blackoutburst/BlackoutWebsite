@@ -47,8 +47,8 @@
 
 <div class="contact">
     <div class="contact-link">
-        <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-            <img src="img/java.png" alt="java" style="width:100%">
+        <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer">
+            <img src="img/kotlin.png" alt="kotlin" style="width:100%">
         </a>
     </div>
     <div class="contact-link">
