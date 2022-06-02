@@ -13,7 +13,7 @@
 
 <div class="project">
     <div class="card">
-        <a href="aow.html">
+        <a href="aow">
           <img src="img/aow.jpg" alt="project icon" style="width:100%" class="project-image">
             <h4>Age of War</h4>
             <p>
@@ -24,7 +24,7 @@
     </a>
     </div>
     <div class="card">
-        <a href="hitw.html">
+        <a href="hitw">
           <img src="img/hitw.jpg" alt="project icon" style="width:100%" class="project-image">
             <h4>Hole in the Wall</h4>
             <p>
@@ -34,7 +34,7 @@
         </a>
     </div>
     <div class="card">
-        <a href="quake.html">
+        <a href="quake">
           <img src="img/quake.jpg" alt="project icon" style="width:100%" class="project-image">
             <h4>QuakeCraft</h4>
             <p>
@@ -48,7 +48,7 @@
 
 <div class="project">
     <div class="card">
-        <a href="wally.html">
+        <a href="wally">
           <img src="img/wally.jpg" alt="project icon" style="width:100%" class="project-image">
             <h4>Wally</h4>
             <p>
@@ -59,7 +59,7 @@
         </a>
     </div>
     <div class="card">
-        <a href="pong.html">
+        <a href="pong">
           <img src="img/pong.jpg" alt="project icon" style="width:100%" class="project-image">
             <h4>Rhythm Pong</h4>
             <p>
@@ -69,7 +69,7 @@
         </a>
     </div>
     <div class="card">
-        <a href="pixel.html">
+        <a href="pixel">
           <img src="img/ps.jpg" alt="project icon" style="width:100%" class="project-image">
             <h4>Pixel Starship</h4>
             <p>
@@ -82,7 +82,7 @@
 </div>
 <div class="project">
     <div class="card">
-        <a href="bme.html">
+        <a href="bme">
           <img src="img/bme.jpg" alt="project icon" style="width:100%" class="project-image">
             <h4>B.M.E</h4>
             <p>
