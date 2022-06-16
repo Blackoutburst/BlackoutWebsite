@@ -7,7 +7,6 @@
     import Footer from "./components/Footer.svelte"
 </script>
 
-
 <Header/>
 <Title label='Wally'/>
 
