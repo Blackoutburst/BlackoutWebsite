@@ -9,6 +9,7 @@
 </script>
 
 <Header/>
+
 <Title label='Wally'/>
 
 <Bio text="Wally is discord bot for Hypixel Hole in the Wall.

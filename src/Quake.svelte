@@ -8,8 +8,8 @@
     import Footer from "./components/Footer.svelte"
 </script>
 
-
 <Header/>
+
 <Title label='QuakeCraft'/>
 
 <Bio text="QuakeCraft is a Spigot plugin, based on the Hypixel QuakeCraft,
