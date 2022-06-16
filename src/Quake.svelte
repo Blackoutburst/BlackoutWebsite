@@ -15,14 +15,14 @@
 <Bio text="QuakeCraft is a Spigot plugin, based on the Hypixel QuakeCraft,
 this plugin was made for testing community maps and features.
 
-This project features: the full QuakeCraft game, cosmetic menu (6 menus, 78 items),
-a map selector, 70+ maps, 19 game settings, spawn point management system"
+This project features: the full QuakeCraft game,cosmetic menu (6 menus, 78 items),
+a map selector, 70+ maps, 19 game settings,spawn point management system"
 />
 
 <SubTitle label='Video'/>
 
-<iframe class="flex w-3/4 aspect-video  justify-center items-center m-auto mb-10" src="https://www.youtube.com/embed/oK-eeDDhNRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe class="flex w-3/4 aspect-video  justify-center items-center m-auto mb-10" src="https://www.youtube.com/embed/rEMI-Klku4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="flex w-3/4 aspect-video  justify-center items-center m-auto mb-10 rounded-lg shadow-xl" src="https://www.youtube.com/embed/oK-eeDDhNRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/>
+<iframe class="flex w-3/4 aspect-video  justify-center items-center m-auto mb-10 rounded-lg shadow-xl" src="https://www.youtube.com/embed/rEMI-Klku4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/>
 
 <SubTitle label='Screenshot'/>
 
@@ -46,7 +46,7 @@ a map selector, 70+ maps, 19 game settings, spawn point management system"
 
 <SubTitle label='Test here'/>
 
-<iframe class="flex justify-center items-center w-2/3 m-auto" src="https://fr.namemc.com/server/173.208.97.173:35609/embed"/>
+<iframe class="flex justify-center items-center w-2/3 m-auto" title="server" src="https://fr.namemc.com/server/173.208.97.173:35609/embed"/>
 
 <Footer/>
 
