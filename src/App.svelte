@@ -140,14 +140,8 @@
     }
 </script>
 
-<style>
-
-    .logo {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 30vmin;
-        border-radius: 50%;
-        box-shadow: 0 8px 10px 0 rgb(0 0 0 / 40%);
-    }
+<style lang="postcss" global>
+	@tailwind base;
+	@tailwind components;
+	@tailwind utilities;
 </style>
