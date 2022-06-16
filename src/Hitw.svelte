@@ -1,82 +1,57 @@
-<header>
-    <div class="header">
-        <img src="img/hitw.png" alt="logo" class="logo">
-    </div>
-</header>
+<script>
+	import Header from "./components/Header.svelte"
+    import Title from "./components/Title.svelte"
+    import Bio from "./components/Bio.svelte"
+    import Image from "./components/Image.svelte"
+    import SubTitle from "./components/SubTitle.svelte"
+    import LinkIcon from "./components/LinkIcon.svelte"
+    import Footer from "./components/Footer.svelte"
+</script>
 
-<div class="title">Hole in the Wall</div>
+<Header/>
 
-<div class="bio">
-    Hole in the Wall is a Spigot plugin, based on the Hypixel game Hole in the wall.<br>
-    It was made for training and community tournament purpose.<br>
-    <br>
-    This project features: a configuration menu, normal and custom wall, custom game mode<br>
-    duel system, score saving accessible via an API and much more.
+<Title label='Hole in the Wall'/>
+
+<Bio text="Hole in the Wall is a Spigot plugin, based on the Hypixel game Hole in the wall.
+It was made for training and community tournament purpose.
+
+This project features: a configuration menu, normal and custom wall, custom game mode
+duel system, score saving accessible via an API and much more."
+/>
+
+<SubTitle label='Video'/>
+
+<iframe class="flex w-3/4 aspect-video  justify-center items-center m-auto mb-10 rounded-lg shadow-xl" src="https://www.youtube.com/embed/yPd0cWm1Kbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/>
+<iframe class="flex w-3/4 aspect-video  justify-center items-center m-auto mb-10 rounded-lg shadow-xl" src="https://www.youtube.com/embed/J37SzCiMifc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/>
+
+<SubTitle label='Screenshot'/>
+
+<Image imagePath='img/hitw1.jpg'/>
+<Image imagePath='img/hitw2.jpg'/>
+<Image imagePath='img/hitw3.jpg'/>
+<Image imagePath='img/hitw4.jpg'/>
+
+<SubTitle label='Project link'/>
+
+<div class="flex flex-wrap gap-5 flex-rows justify-center items-center w-3/4 m-auto">
+    <LinkIcon link="https://github.com/Blackoutburst/HitW-plugin" imagePath="img/github.png" />
 </div>
 
-<div class="title">Video</div>
+<SubTitle label='Made with'/>
 
-<div class="features">
-    <iframe class="features-vid" src="https://www.youtube.com/embed/yPd0cWm1Kbw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="flex flex-wrap gap-5 flex-rows justify-center items-center w-3/4 m-auto">
+    <LinkIcon link="https://www.java.com/" imagePath="img/java.png" />
+    <LinkIcon link="https://www.spigotmc.org/" imagePath="img/spigot.png" />
 </div>
 
-<div class="features">
-    <iframe class="features-vid" src="https://www.youtube.com/embed/J37SzCiMifc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<SubTitle label='Test here'/>
 
-<div class="title">Screenshot</div>
+<iframe class="flex justify-center items-center w-2/3 m-auto" title="server" src="https://fr.namemc.com/server/hitw.minesr.com/embed"/>
 
-<div class="features">
-    <img src="img/hitw1.jpg" alt="project screenshot" style="width:100%" class="features-image">
-</div>
+<Footer/>
 
-<div class="features">
-    <img src="img/hitw2.jpg" alt="project screenshot" style="width:100%" class="features-image">
-</div>
-
-<div class="features">
-    <img src="img/hitw3.jpg" alt="project screenshot" style="width:100%" class="features-image">
-</div>
-
-<div class="features">
-    <img src="img/hitw4.jpg" alt="project screenshot" style="width:100%" class="features-image">
-</div>
-
-<div class="title">Project link</div>
-
-<div class="contact">
-    <div class="contact-link">
-        <a href="https://github.com/Blackoutburst/HitW-plugin" target="_blank" rel="noopener noreferrer">
-            <img src="img/github.png" alt="github" class="links-img" style="width:100%">
-        </a>
-    </div>
-</div>
-<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://fr.namemc.com/server/hitw.minesr.com/embed" width="728" height="90"></iframe>
-
-<div class="title">Made with</div>
-
-<div class="contact">
-    <div class="contact-link">
-        <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-            <img src="img/java.png" alt="java" style="width:100%">
-        </a>
-    </div>
-    <div class="contact-link">
-        <a href="https://www.spigotmc.org/" target="_blank" rel="noopener noreferrer">
-            <img src="img/spigot.png" alt="spigot" style="width:100%">
-        </a>
-    </div>
-</div>
-
-<div class="footer">
-    <p class="footer-title">© Blackoutburst</p>
-</div>
-
-<style>
-    .logo {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 30vmin;
-    }
+<style lang="postcss" global>
+	@tailwind base;
+	@tailwind components;
+	@tailwind utilities;
 </style>

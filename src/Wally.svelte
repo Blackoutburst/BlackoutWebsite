@@ -1,79 +1,50 @@
-<header>
-    <div class="header">
-        <img src="img/wally.png" alt="logo" class="logo">
-    </div>
-</header>
+<script>
+	import Header from "./components/Header.svelte"
+    import Title from "./components/Title.svelte"
+    import Bio from "./components/Bio.svelte"
+    import Image from "./components/Image.svelte"
+    import SubTitle from "./components/SubTitle.svelte"
+    import LinkIcon from "./components/LinkIcon.svelte"
+    import Footer from "./components/Footer.svelte"
+</script>
 
-<div class="title">Wally</div>
+<Header/>
 
-<div class="bio">
-    Wally is discord bot for Hypixel Hole in the Wall.<br>
-    He can check user stats and track them in real time.<br>
-    He is also linked to my own Hole in the Wall plugin.
+<Title label='Wally'/>
+
+<Bio text="Wally is discord bot for Hypixel Hole in the Wall.
+He can check user stats and track them in real time.
+He is also linked to my own Hole in the Wall plugin."/>
+
+<SubTitle label='Screenshot'/>
+
+<Image imagePath='img/wally1.png'/>
+
+<div class="flex flex-wrap gap-5 flex-rows justify-center items-center w-11/12 m-auto">
+    <img class="w-96 lg:w-5/12 xl:w-5/12 2xl:w-5/12" src="img/wally2.png" alt="project screenshot">
+    <img class="w-96 lg:w-5/12 xl:w-5/12 2xl:w-5/12" src="img/wally3.png" alt="project screenshot">
+    <img class="w-96 lg:w-5/12 xl:w-5/12 2xl:w-5/12" src="img/wally4.png" alt="project screenshot">
+    <img class="w-96 lg:w-5/12 xl:w-5/12 2xl:w-5/12"  src="img/wally5.png" alt="project screenshot">
 </div>
 
-<div class="title">Screenshot</div>
+<SubTitle label='Project link'/>
 
-<div class="features">
-    <img src="img/wally1.png" alt="project screenshot" style="width:50%" class="features-image">
+<div class="flex flex-wrap gap-5 flex-rows justify-center items-center w-3/4 m-auto">
+    <LinkIcon link="https://discord.com/invite/Gh24vw5b54" imagePath="img/discord.png" />
+    <LinkIcon link="https://github.com/Blackoutburst/Wally" imagePath="img/github.png" />
 </div>
 
-<div class="features">
-    <img src="img/wally2.png" alt="project screenshot" style="width:50%" class="features-image">
-    <img src="img/wally3.png" alt="project screenshot" style="width:50%" class="features-image">
+<SubTitle label='Made with'/>
+
+<div class="flex flex-wrap gap-5 flex-rows justify-center items-center w-3/4 m-auto">
+    <LinkIcon link="https://kotlinlang.org/" imagePath="img/kotlin.png" />
+    <LinkIcon link="https://github.com/DV8FromTheWorld/JDA" imagePath="img/jda.png" />
 </div>
 
-<div class="features">
-    <img src="img/wally4.png" alt="project screenshot" style="width:50%" class="features-image">
-    <img src="img/wally5.png" alt="project screenshot" style="width:50%" class="features-image">
-</div>
+<Footer/>
 
-<div class="title">Project link</div>
-
-<div class="contact">
-    <div class="contact-link">
-        <a href="https://discord.com/invite/Gh24vw5b54" target="_blank" rel="noopener noreferrer">
-            <img src="img/discord.png" alt="github" class="links-img" style="width:100%">
-        </a>
-    </div>
-    <div class="contact-link">
-        <a href="https://github.com/Blackoutburst/Wally" target="_blank" rel="noopener noreferrer">
-            <img src="img/github.png" alt="github" class="links-img" style="width:100%">
-        </a>
-    </div>
-</div>
-
-<div class="title">Made with</div>
-
-<div class="contact">
-    <div class="contact-link">
-        <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer">
-            <img src="img/kotlin.png" alt="kotlin" style="width:100%">
-        </a>
-    </div>
-    <div class="contact-link">
-        <a href="https://github.com/DV8FromTheWorld/JDA" target="_blank" rel="noopener noreferrer">
-            <img src="img/jda.png" alt="spigot" style="width:100%; border-radius: 1em">
-        </a>
-    </div>
-</div>
-
-<div class="footer">
-    <p class="footer-title">© Blackoutburst</p>
-</div>
-
-<style>
-    .logo {
-        border-radius: 1em;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 30vmin;
-    }
-
-    .features-image {
-        margin: 1em;
-        border-radius: 1.8em;
-        box-shadow: 0 8px 10px 0 rgba(0,0,0,0.4);
-    }
+<style lang="postcss" global>
+	@tailwind base;
+	@tailwind components;
+	@tailwind utilities;
 </style>

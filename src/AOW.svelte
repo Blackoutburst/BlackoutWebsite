@@ -1,78 +1,53 @@
-<header>
-    <div class="header">
-        <img src="img/aow.png" alt="logo" class="logo">
-    </div>
-</header>
+<script>
+	import Header from "./components/Header.svelte"
+    import Title from "./components/Title.svelte"
+    import Bio from "./components/Bio.svelte"
+    import Image from "./components/Image.svelte"
+    import SubTitle from "./components/SubTitle.svelte"
+    import LinkIcon from "./components/LinkIcon.svelte"
+    import Footer from "./components/Footer.svelte"
+</script>
 
-<div class="title">Age of War</div>
+<Header/>
 
-<div class="bio">
-    Age of War is a Spigot plugin,
-    this plugin is based on the old flash game Age of War.<br>
-    In this game 2 players fight each other with one goal,
-    destroying the opponent base.<br>
-    <br>
-    This project features: 18 units, 6 ages, 6 bases and 6 special attacks
+<Title label='Age of War'/>
+
+<Bio text="Age of War is a Spigot plugin,
+this plugin is based on the old flash game Age of War.
+In this game 2 players fight each other with one goal,
+destroying the opponent base.
+
+This project features: 18 units, 6 ages, 6 bases and 6 special attacks
+"/>
+
+<SubTitle label='Video'/>
+
+<iframe class="flex w-3/4 aspect-video  justify-center items-center m-auto mb-10 rounded-lg shadow-xl" src="https://www.youtube.com/embed/Fy0pyhpQIkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen/>
+
+<SubTitle label='Screenshot'/>
+
+<Image imagePath='img/aow1.jpg'/>
+<Image imagePath='img/aow2.jpg'/>
+<Image imagePath='img/aow3.jpg'/>
+<Image imagePath='img/aow4.jpg'/>
+
+<SubTitle label='Project link'/>
+
+<div class="flex flex-wrap gap-5 flex-rows justify-center items-center w-3/4 m-auto">
+    <LinkIcon link="https://github.com/Blackoutburst/AoW-plugin" imagePath="img/github.png" />
 </div>
 
-<div class="title">Video</div>
+<SubTitle label='Made with'/>
 
-<div class="features">
-    <iframe class="features-vid" src="https://www.youtube.com/embed/Fy0pyhpQIkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="flex flex-wrap gap-5 flex-rows justify-center items-center w-3/4 m-auto">
+    <LinkIcon link="https://www.java.com/" imagePath="img/java.png" />
+    <LinkIcon link="https://www.spigotmc.org/" imagePath="img/spigot.png" />
 </div>
 
-<div class="title">Screenshot</div>
+<Footer/>
 
-<div class="features">
-    <img src="img/aow1.jpg" alt="project screenshot" style="width:100%" class="features-image">
-</div>
-
-<div class="features">
-    <img src="img/aow2.jpg" alt="project screenshot" style="width:100%" class="features-image">
-</div>
-
-<div class="features">
-    <img src="img/aow3.jpg" alt="project screenshot" style="width:100%" class="features-image">
-</div>
-
-<div class="features">
-    <img src="img/aow4.jpg" alt="project screenshot" style="width:100%" class="features-image">
-</div>
-
-<div class="title">Project link</div>
-
-<div class="contact">
-    <div class="contact-link">
-        <a href="https://github.com/Blackoutburst/AoW-plugin" target="_blank" rel="noopener noreferrer">
-            <img src="img/github.png" alt="github" class="links-img" style="width:100%">
-        </a>
-    </div>
-</div>
-
-<div class="title">Made with</div>
-
-<div class="contact">
-    <div class="contact-link">
-        <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-            <img src="img/java.png" alt="java" style="width:100%">
-        </a>
-    </div>
-    <div class="contact-link">
-        <a href="https://www.spigotmc.org/" target="_blank" rel="noopener noreferrer">
-            <img src="img/spigot.png" alt="spigot" style="width:100%">
-        </a>
-    </div>
-</div>
-
-<div class="footer">
-    <p class="footer-title">© Blackoutburst</p>
-</div>
-
-<style>
-    .logo {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 30vmin;
-    }
+<style lang="postcss" global>
+	@tailwind base;
+	@tailwind components;
+	@tailwind utilities;
 </style>
