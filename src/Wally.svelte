@@ -2,6 +2,7 @@
 	import Header from "./components/Header.svelte"
     import Title from "./components/Title.svelte"
     import Bio from "./components/Bio.svelte"
+    import Image from "./components/Image.svelte"
     import SubTitle from "./components/SubTitle.svelte"
     import LinkIcon from "./components/LinkIcon.svelte"
     import Footer from "./components/Footer.svelte"
@@ -16,9 +17,7 @@ He is also linked to my own Hole in the Wall plugin."/>
 
 <SubTitle label='Screenshot'/>
 
-<div class="flex w-3/4  justify-center items-center m-auto mb-10">
-    <img class="object-cover" src="img/wally1.png" alt="project screenshot">
-</div>
+<Image imagePath='img/wally1.png'/>
 
 <div class="flex flex-wrap gap-5 flex-rows justify-center items-center w-11/12 m-auto">
     <img class="w-96 lg:w-5/12 xl:w-5/12 2xl:w-5/12" src="img/wally2.png" alt="project screenshot">
