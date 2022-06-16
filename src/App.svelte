@@ -31,40 +31,40 @@ I mainly work on Minecraft and video game project.
 "/>
 
 <div class="flex flex-wrap gap-10 flex-rows justify-center items-center w-11/12 m-auto mt-10">
-    <Card link="./aow" imagePath="img/aow.jpg"
+    <Card link="./aow.html" imagePath="img/aow.jpg"
         title="Age of War"
         description="Age of War is a Spigot plugin,
         this plugin is based on the old flash game Age of War.
         In this game 2 players fight each other with one goal, destroying the opponent base.
     "/>
-    <Card link="./hitw" imagePath="img/hitw.jpg"
+    <Card link="./hitw.html" imagePath="img/hitw.jpg"
         title="Hole in the Wall"
         description="Hole in the Wall is a Spigot plugin, based on the Hypixel game Hole in the wall,
         this plugin was made for training and community tournament purpose..
     "/>
-    <Card link="./quake" imagePath="img/quake.jpg"
+    <Card link="./quake.html" imagePath="img/quake.jpg"
         title="QuakeCraft"
         description="QuakeCraft is a Spigot plugin, based on the Hypixel QuakeCraft,
         this plugin was made for testing community maps and features.
     "/>
-    <Card link="./wally" imagePath="img/wally.jpg"
+    <Card link="./wally.html" imagePath="img/wally.jpg"
         title="Wally"
         description="Wally is discord bot for Hypixel Hole in the Wall.
         He can check user stats and track them in real time.
         He is also linked to my own Hole in the Wall plugin.
     "/>
-    <Card link="./pong" imagePath="img/pong.jpg"
+    <Card link="./pong.html" imagePath="img/pong.jpg"
         title="Pong"
         description="This is a visual experiment between two bots
         playing a game of pong following the rhythm of a song.
     "/>
-    <Card link="./pixel" imagePath="img/ps.jpg"
+    <Card link="./pixel.html" imagePath="img/ps.jpg"
         title="Pixel Starship"
         description="Pixel Starship is a Android game,
         in this game your goal is to go as far as possible.
         This is also my first game ever published on the Play Store!
     "/>
-    <Card link="./bme" imagePath="img/bme.jpg"
+    <Card link="./bme.html" imagePath="img/bme.jpg"
         title="B.M.E"
         description="B.M.E is a basic map editor, this editor focus on 2D maps.
         It was made for personal uses and handle the basic tools necessary to create simple maps.
