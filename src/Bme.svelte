@@ -1,68 +1,45 @@
-<header>
-    <div class="header">
-        <img src="img/bme.png" alt="logo" class="logo">
-    </div>
-</header>
+<script>
+	import Header from "./components/Header.svelte"
+    import Title from "./components/Title.svelte"
+    import Bio from "./components/Bio.svelte"
+    import Image from "./components/Image.svelte"
+    import SubTitle from "./components/SubTitle.svelte"
+    import LinkIcon from "./components/LinkIcon.svelte"
+    import Footer from "./components/Footer.svelte"
+</script>
 
-<div class="title">B.M.E</div>
+<Header/>
 
-<div class="bio">
-    B.M.E is a basic map editor, this editor focus on 2D maps.<br>
-    It was made for personal uses and handle the basic tools necessary to create simple maps.
+<Title label='B.M.E'/>
+
+<Bio text="B.M.E is a basic map editor, this editor focus on 2D maps.
+It was made for personal uses and handle the basic tools necessary to create simple maps.
+"/>
+
+<SubTitle label='Screenshot'/>
+
+<Image imagePath='img/bme1.jpg'/>
+<Image imagePath='img/bme2.jpg'/>
+<Image imagePath='img/bme3.jpg'/>
+<Image imagePath='img/bme4.jpg'/>
+
+<SubTitle label='Project link'/>
+
+<div class="flex flex-wrap gap-5 flex-rows justify-center items-center w-3/4 m-auto">
+    <LinkIcon link="https://github.com/Blackoutburst/Black-Map-Editor" imagePath="img/github.png" />
 </div>
 
-<div class="title">Screenshot</div>
+<SubTitle label='Made with'/>
 
-<div class="features">
-    <img src="img/bme1.jpg" alt="project screenshot" style="width:100%" class="features-image">
+<div class="flex flex-wrap gap-5 flex-rows justify-center items-center w-3/4 m-auto">
+    <LinkIcon link="https://www.java.com/" imagePath="img/java.png" />
+    <LinkIcon link="https://www.lwjgl.org/" imagePath="img/lwjgl.png" />
 </div>
 
-<div class="features">
-    <img src="img/bme2.jpg" alt="project screenshot" style="width:100%" class="features-image">
-</div>
+<Footer/>
 
-<div class="features">
-    <img src="img/bme3.jpg" alt="project screenshot" style="width:100%" class="features-image">
-</div>
-
-<div class="features">
-    <img src="img/bme4.jpg" alt="project screenshot" style="width:100%" class="features-image">
-</div>
-
-<div class="title">Project link</div>
-
-<div class="contact">
-    <div class="contact-link">
-        <a href="https://github.com/Blackoutburst/Black-Map-Editor" target="_blank" rel="noopener noreferrer">
-            <img src="img/github.png" alt="github" class="links-img" style="width:100%">
-        </a>
-    </div>
-</div>
-
-<div class="title">Made with</div>
-
-<div class="contact">
-    <div class="contact-link">
-        <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-            <img src="img/java.png" alt="java" style="width:100%">
-        </a>
-    </div>
-    <div class="contact-link">
-        <a href="https://www.lwjgl.org/" target="_blank" rel="noopener noreferrer">
-            <img src="img/lwjgl.png" alt="spigot" style="width:100%">
-        </a>
-    </div>
-</div>
-
-<div class="footer">
-    <p class="footer-title">© Blackoutburst</p>
-</div>
-
-<style>
-    .logo {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 30vmin;
-    }
+<style lang="postcss" global>
+	@tailwind base;
+	@tailwind components;
+	@tailwind utilities;
 </style>
