@@ -127,7 +127,7 @@
   
     onMount(() => {
         ctx = canvas.getContext("2d")
-        canvas.addEventListener("click", onClick, false)
+        canvas.addEventListener("mousedown", onClick, false)
         cleanBoard()
     })
 </script>
