@@ -58,8 +58,8 @@
 
     const cleanBoard = () => {
         cells = []
-        for (let y = 0; y < 600; y += cellSize)
-            for (let x = 0; x < 600; x += cellSize)
+        for (let y = 0; y < height; y += cellSize)
+            for (let x = 0; x < width; x += cellSize)
                 cells.push({x, y, active: false, ishole: false})
 
         for (let cell of cells) {
