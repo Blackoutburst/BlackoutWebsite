@@ -13,6 +13,8 @@
 
     let timer
 
+    let holeNumber = 8
+
     let time = 120
     let score = 0
 
@@ -41,9 +43,9 @@
     const generateHoles = () => {
         let holes = 0
 
-        while (holes !== 8) {
+        while (holes !== holeNumber) {
             for (let cell of cells) {
-                let rng = Math.floor(Math.random() * 10)
+                let rng = Math.floor(Math.random() * 100)
                 if (rng === 0 && !cell.ishole) {
                     holes++
                     cell.ishole = true
@@ -135,6 +137,8 @@
 <div class='w-screen h-screen p-5'>
     <p class="text-center text-white text-4xl">HitW 2D</p>
     <p on:click={() => startGame()} class="cursor-pointer absolute top-5 left-5 text-center text-white text-3xl bg-orange-400 rounded-lg w-fit px-4 py-2">Start</p>
+    <p on:click={() => {cellSize = 120, holeNumber = 8, cleanBoard()}} class="cursor-pointer absolute top-5 left-[130px] text-center text-white text-3xl bg-orange-400 rounded-lg w-16 px-4 py-2">Q</p>
+    <p on:click={() => {cellSize = 60, holeNumber = 32, cleanBoard()}} class="cursor-pointer absolute top-5 left-[210px] text-center text-white text-3xl bg-orange-400 rounded-lg w-16 px-4 py-2">F</p>
     <p class="absolute top-20 left-5 text-center text-white text-3xl">Score: {score}</p>
     <p class="absolute top-32 left-5 text-center text-white text-3xl">Time: {Math.floor(time / 60) + ":" + (time % 60 ? time % 60 : '00')}</p>
     <div class="w-full h-full flex justify-center items-center space-x-10">
