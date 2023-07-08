@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#0e0915]
+}
+
+::selection {
+  color: #d1b1ff;
+  background: #4c1481;
+}
+
+h1 {
+  @apply text-white text-5xl font-bold
+}
+
+h2 {
+  @apply text-white text-4xl font-bold text-[#9061d1]
+}
+
+h3 {
+  @apply text-white text-2xl font-semibold text-[#9061d1]
+}
+
+p {
+  @apply text-white font-thin
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.rotating {
+  animation: rotate 50s linear infinite;
+}
+
+.rrotating {
+  animation: rotate 50s linear infinite reverse;
+}
+
+.boutme-border {
+ @apply shadow-lg bg-gradient-to-r from-[#29ffbf] to-[#862fde] w-64 h-20 rounded-full p-0.5
+}
+
+.boutme {
+ @apply flex flex-col justify-center items-center bg-neutral-900 w-full h-full rounded-full
+}
