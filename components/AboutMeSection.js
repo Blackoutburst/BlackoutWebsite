@@ -5,12 +5,14 @@ export default function AboutMeSection() {
         <div className={"flex flex-col space-y-20 justify-center items-center w-full mb-20"}>
             <h2 className={"z-20"}>About me</h2>
 
-            <Image width={0} height={0} alt={"decoration"} className={"absolute w-32 animate-pulse translate-x-[180px] -translate-y-[320px]"} src={"/plus2.svg"}/>
-            <Image width={0} height={0} alt={"decoration"} className={"absolute w-24 animate-pulse -translate-x-[180px] -translate-y-[250px]"} src={"/plus.svg"}/>
-            <Image width={0} height={0} alt={"decoration"} className={"absolute w-96 -translate-x-[80px] -translate-y-[280px]"} src={"/line.svg"}/>
-            <Image width={0} height={0} alt={"decoration"} className={"absolute w-96 translate-x-[40px] -translate-y-[240px]"} src={"/line.svg"}/>
-            <Image width={0} height={0} alt={"decoration"} className={"absolute w-56 animate-pulse -translate-x-[300%] -translate-y-[320px] rotate-45"} src={"/hexagon.svg"}/>
-            <Image width={0} height={0} alt={"decoration"} className={"absolute w-56 animate-pulse translate-x-[300%] -translate-y-[220px] -rotate-12"} src={"/circle.svg"}/>
+            <div className={"absolute rotate-12 w-[100vw] h-32 bg-neutral-800 -z-50"} />
+
+            <Image width={0} height={0} alt={"decoration"} className={"select-none absolute w-32 animate-pulse translate-x-[180px] -translate-y-[420px]"} src={"/plus2.svg"}/>
+            <Image width={0} height={0} alt={"decoration"} className={"select-none absolute w-24 animate-pulse -translate-x-[180px] -translate-y-[350px]"} src={"/plus.svg"}/>
+            <Image width={0} height={0} alt={"decoration"} className={"select-none absolute w-96 -translate-x-[70px] -translate-y-[340px]"} src={"/line.svg"}/>
+            <Image width={0} height={0} alt={"decoration"} className={"select-none absolute w-96 translate-x-[30px] -translate-y-[290px]"} src={"/line.svg"}/>
+            <Image width={0} height={0} alt={"decoration"} className={"select-none absolute w-56 animate-pulse -translate-x-[300%] -translate-y-[320px] rotate-45"} src={"/hexagon.svg"}/>
+            <Image width={0} height={0} alt={"decoration"} className={"select-none absolute w-56 animate-pulse translate-x-[300%] -translate-y-[420px] -rotate-12"} src={"/circle.svg"}/>
 
             <div className={"flex justify-evenly items-center mx-20"}>
                 <p className={"w-1/3"}>
@@ -26,32 +28,36 @@ export default function AboutMeSection() {
                     <div className={"boutme-border"}>
                         <div className={"boutme"}>
                             <h3>Name</h3>
-                            <p>Florian Chanson</p>
+                            <span className={"text-white font-thin"}>Florian Chanson</span>
                         </div>
                     </div>
                     <div className={"boutme-border"}>
                         <div className={"boutme"}>
                             <h3>Nickname</h3>
-                            <p>Blackoutburst</p>
+                            <span className={"text-white font-thin"}>Blackoutburst</span>
                         </div>
                     </div>
                     <a href={"mailto:f.chanson@barbablanka.com"}>
                         <div className={"boutme-border"}>
                             <div className={"boutme"}>
                                 <h3>Email</h3>
-                                <p>f.chanson@barbablanka.com</p>
+                                <span className={"text-white font-thin"}>f.chanson@barbablanka.com</span>
                             </div>
                         </div>
                     </a>
                     <div className={"boutme-border"}>
                         <div className={"boutme"}>
                             <h3>Country</h3>
-                            <p>France</p>
+                            <span className={"text-white font-thin"}>France</span>
                         </div>
                     </div>
                 </div>
             </div>
-
+            <div/>
+            <div className={"select-none absolute scale-50 xl:scale-100 left-0 bottom-0"}>
+                <div className={"select-none rotating border-[#452277] -left-[100px] -bottom-[100px] absolute w-[200px] h-[200px] border-2 border-dashed rounded-full"}/>
+                <div className={"select-none rrotating border-[#9061d1] -left-[150px] -bottom-[150px] absolute w-[300px] h-[300px] border-2 border-dashed rounded-full"}/>
+            </div>
         </div>
     )
 }

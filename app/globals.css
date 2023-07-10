@@ -24,7 +24,7 @@ h3 {
 }
 
 p {
-  @apply text-white font-thin
+  @apply text-white font-thin text-lg
 }
 
 @keyframes rotate {
@@ -50,4 +50,17 @@ p {
 
 .boutme {
  @apply flex flex-col justify-center items-center bg-neutral-900 w-full h-full rounded-full
+}
+
+@keyframes coiling {
+  0% {
+    transform: rotate(0deg) scale(2);
+  }
+  100% {
+    transform: rotate(-360deg) scale(2);
+  }
+}
+
+.coil {
+  animation: coiling 50s linear infinite;
 }
