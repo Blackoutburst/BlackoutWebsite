@@ -37,7 +37,7 @@ export default function AboutMeSection() {
                             <span className={"text-white font-thin"}>Blackoutburst</span>
                         </div>
                     </div>
-                    <a href={"mailto:f.chanson@barbablanka.com"}>
+                    <a href={"mailto:f.chanson@barbablanka.com"} className={"hover:scale-105 duration-300"}>
                         <div className={"boutme-border"}>
                             <div className={"boutme"}>
                                 <h3>Email</h3>
