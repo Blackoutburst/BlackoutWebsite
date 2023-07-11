@@ -11,29 +11,29 @@ export default function TechnoSections() {
 
                 <div className={"flex justify-evenly items-center gap-x-10 w-full"}>
                     <a target="_blank" rel="noopener noreferrer" href="https://nextjs.org/" className={"flex justify-center items-center z-50 w-32 h-32 relative hover:scale-105 duration-500"}>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-32 scale-[250%] rotate-12 -translate-x-3 translate-y-1 select-none cursor-pointer z-50"} src={"/nextjs-bg-out.svg"}/>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-32 scale-[240%] rotate-12 -translate-x-3 translate-y-1 select-none cursor-pointer z-50"} src={"/nextjs-bg.svg"}/>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-32 select-none cursor-pointer z-50"} src={"/nextjs.svg"}/>
+                        <Image width={0} height={0} alt={"nextjs logo"} className={"absolute w-32 scale-[250%] rotate-12 -translate-x-3 translate-y-1 select-none cursor-pointer z-50"} src={"/nextjs-bg-out.svg"}/>
+                        <Image width={0} height={0} alt={"nextjs logo"} className={"absolute w-32 scale-[240%] rotate-12 -translate-x-3 translate-y-1 select-none cursor-pointer z-50"} src={"/nextjs-bg.svg"}/>
+                        <Image width={0} height={0} alt={"nextjs logo"} className={"absolute w-32 select-none cursor-pointer z-50"} src={"/nextjs.svg"}/>
                     </a>
                     <a target="_blank" rel="noopener noreferrer" href="https://www.java.com/" className={"flex justify-center items-center z-50 w-32 h-32 relative hover:scale-105 duration-500"}>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-24 scale-[260%] -translate-y-5 select-none cursor-pointer z-50"} src={"/java-bg-out.svg"}/>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-24 scale-[250%] -translate-y-5 select-none cursor-pointer z-50"} src={"/java-bg.svg"}/>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-24 select-none cursor-pointer z-50"} src={"/java.svg"}/>
+                        <Image width={0} height={0} alt={"java logo"} className={"absolute w-24 scale-[260%] -translate-y-5 select-none cursor-pointer z-50"} src={"/java-bg-out.svg"}/>
+                        <Image width={0} height={0} alt={"java logo"} className={"absolute w-24 scale-[250%] -translate-y-5 select-none cursor-pointer z-50"} src={"/java-bg.svg"}/>
+                        <Image width={0} height={0} alt={"java logo"} className={"absolute w-24 select-none cursor-pointer z-50"} src={"/java.svg"}/>
                     </a>
                     <a target="_blank" rel="noopener noreferrer" href="https://kotlinlang.org/" className={"flex justify-center items-center z-50 w-32 h-32 relative hover:scale-105 duration-500"}>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-24 scale-[310%] select-none cursor-pointer z-50"} src={"/kotlin-bg-out.svg"}/>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-24 scale-[300%] select-none cursor-pointer z-50"} src={"/kotlin-bg.svg"}/>
-                        <Image width={0} height={0} alt={"github logo"} className={"w-24 select-none cursor-pointer z-50"} src={"/kotlin.svg"}/>
+                        <Image width={0} height={0} alt={"kotlin logo"} className={"absolute w-24 scale-[310%] select-none cursor-pointer z-50"} src={"/kotlin-bg-out.svg"}/>
+                        <Image width={0} height={0} alt={"kotlin logo"} className={"absolute w-24 scale-[300%] select-none cursor-pointer z-50"} src={"/kotlin-bg.svg"}/>
+                        <Image width={0} height={0} alt={"kotlin logo"} className={"w-24 select-none cursor-pointer z-50"} src={"/kotlin.svg"}/>
                     </a>
                     <a target="_blank" rel="noopener noreferrer" href="https://www.android.com/" className={"flex justify-center items-center z-50 w-32 h-32 relative hover:scale-105 duration-500"}>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-24 scale-[240%] -translate-x-2 select-none cursor-pointer z-50"} src={"/android-bg-out.svg"}/>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-24 scale-[230%] -translate-x-2 select-none cursor-pointer z-50"} src={"/android-bg.svg"}/>
-                        <Image width={0} height={0} alt={"github logo"} className={"w-32 select-none cursor-pointer z-50"} src={"/android.svg"}/>
+                        <Image width={0} height={0} alt={"android logo"} className={"absolute w-24 scale-[240%] -translate-x-2 select-none cursor-pointer z-50"} src={"/android-bg-out.svg"}/>
+                        <Image width={0} height={0} alt={"android logo"} className={"absolute w-24 scale-[230%] -translate-x-2 select-none cursor-pointer z-50"} src={"/android-bg.svg"}/>
+                        <Image width={0} height={0} alt={"android logo"} className={"w-32 select-none cursor-pointer z-50"} src={"/android.svg"}/>
                     </a>
                     <a target="_blank" rel="noopener noreferrer" href="https://www.javascript.com/" className={"flex justify-center items-center z-50 w-32 h-32 relative hover:scale-105 duration-500"}>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-24 scale-[240%] select-none cursor-pointer z-50"} src={"/javascript-bg-out.svg"}/>
-                        <Image width={0} height={0} alt={"github logo"} className={"absolute w-24 scale-[230%] select-none cursor-pointer z-50"} src={"/javascript-bg.svg"}/>
-                        <Image width={0} height={0} alt={"github logo"} className={"w-24 select-none cursor-pointer z-50"} src={"/javascript.svg"}/>
+                        <Image width={0} height={0} alt={"javascript logo"} className={"absolute w-24 scale-[240%] select-none cursor-pointer z-50"} src={"/javascript-bg-out.svg"}/>
+                        <Image width={0} height={0} alt={"javascript logo"} className={"absolute w-24 scale-[230%] select-none cursor-pointer z-50"} src={"/javascript-bg.svg"}/>
+                        <Image width={0} height={0} alt={"javascript logo"} className={"w-24 select-none cursor-pointer z-50"} src={"/javascript.svg"}/>
                     </a>
                 </div>
             </div>

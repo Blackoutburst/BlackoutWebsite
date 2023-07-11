@@ -49,7 +49,7 @@ export default function HomeSection() {
                     <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@blackoutburst803/" className={"z-50 hover:scale-110 duration-300"}>
                         <Image width={0} height={0} alt={"youtube logo"} className={"w-8 h-8 select-none cursor-pointer z-50"} src={"/youtube-logo.svg"}/>
                     </a>
-                    <Image width={0} height={0} alt={"youtube logo"} className={"w-8 h-8 select-none cursor-not-allowed z-50"} src={"/linkedin-logo.svg"}/>
+                    <Image width={0} height={0} alt={"linkedin logo"} className={"w-8 h-8 select-none cursor-not-allowed z-50"} src={"/linkedin-logo.svg"}/>
 
                 </div>
             </div>
