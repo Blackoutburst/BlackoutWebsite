@@ -4,8 +4,8 @@ import { Tooltip } from "@/components/Tooltip"
 export default function HomeSection() {
     return (
         <div className={"flex justify-between bg-[#130c1c] -z-50 w-full h-56 xl:h-full"}>
-            <div className={"mx-auto xl:mx-20 -translate-x-20 xl:translate-x-0 scale-50 xl:scale-100 z-10"}>
-                <h1 className={"group relative m-10 xl:mt-40 z-50"}>
+            <div className={"flex flex-col xl:mx-20 -translate-x-20 xl:translate-x-0 scale-50 xl:scale-100 z-10"}>
+                <h1 className={"group mx-10 xl:mt-40 z-50"}>
 
                     <Image width={0} height={0} alt={"decoration"} className={"select-none absolute w-24 -translate-x-[60px] -translate-y-[80px] animate-pulse -z-10"} src={"/plus.svg"}/>
                     <Image width={0} height={0} alt={"decoration"} className={"select-none absolute w-32 translate-x-[550px] animate-pulse -z-10"} src={"/plus2.svg"}/>
