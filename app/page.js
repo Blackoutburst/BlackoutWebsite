@@ -1,5 +1,6 @@
 import HomeSection from "@/components/HomeSection"
 import AboutMeSection from "@/components/AboutMeSection"
+import TechnoSections from "@/components/TechnoSections"
 
 export default function Home() {
     return (
@@ -10,6 +11,7 @@ export default function Home() {
                     <img src={"/wave.svg"}/>
                 </div>
                 <AboutMeSection/>
+                <TechnoSections/>
             </div>
         </main>
     )

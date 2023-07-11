@@ -16,11 +16,11 @@ h1 {
 }
 
 h2 {
-  @apply text-white text-4xl font-bold text-[#9061d1]
+  @apply text-4xl font-bold text-[#9061d1]
 }
 
 h3 {
-  @apply text-white text-2xl font-semibold text-[#9061d1]
+  @apply text-2xl font-semibold text-[#9061d1]
 }
 
 p {
@@ -68,7 +68,7 @@ p {
 @layer utilities {
   .scrollbar::-webkit-scrollbar {
     width: 15px;
-    height: 0px;
+    height: 0;
   }
 
   .scrollbar::-webkit-scrollbar-track {

@@ -31,10 +31,10 @@ export default function HomeSection() {
                     <Tooltip message="blackoutburst">
                         <Image width={0} height={0} alt={"discord logo"} className={"w-8 h-8 select-none cursor-help z-50"} src={"/discord-logo.svg"}/>
                     </Tooltip>
-                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Blackoutburst" className={"z-50"}>
+                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Blackoutburst/" className={"z-50"}>
                         <Image width={0} height={0} alt={"github logo"} className={"w-8 h-8 select-none cursor-pointer z-50"} src={"/github-logo.svg"}/>
                     </a>
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@blackoutburst803" className={"z-50"}>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@blackoutburst803/" className={"z-50"}>
                         <Image width={0} height={0} alt={"youtube logo"} className={"w-8 h-8 select-none cursor-pointer z-50"} src={"/youtube-logo.svg"}/>
                     </a>
                     <Image width={0} height={0} alt={"youtube logo"} className={"w-8 h-8 select-none cursor-not-allowed z-50"} src={"/linkedin-logo.svg"}/>

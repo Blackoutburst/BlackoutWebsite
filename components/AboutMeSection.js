@@ -54,10 +54,6 @@ export default function AboutMeSection() {
                 </div>
             </div>
             <div/>
-            <div className={"select-none absolute scale-50 xl:scale-100 left-0 bottom-0"}>
-                <div className={"select-none rotating border-[#452277] -left-[100px] -bottom-[100px] absolute w-[200px] h-[200px] border-2 border-dashed rounded-full"}/>
-                <div className={"select-none rrotating border-[#9061d1] -left-[150px] -bottom-[150px] absolute w-[300px] h-[300px] border-2 border-dashed rounded-full"}/>
-            </div>
         </div>
     )
 }
