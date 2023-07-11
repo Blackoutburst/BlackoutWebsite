@@ -54,7 +54,7 @@ export default function HomeSection() {
                 </div>
             </div>
 
-            <div className={"tilt select-none hidden xl:flex relative justify-center items-center opacity-70 mt-32 z-40"}>
+            <div className={"select-none hidden xl:flex relative justify-center items-center opacity-70 mt-32 z-40"}>
                 <div className={"tilt w-full h-full flex relative justify-center items-center z-20 rounded-full"} data-tilt>
                     <div className={"absolute bg-gradient-to-r from-[#452277] to-[#9061d1] w-60 h-60 rounded-full shadow-2xl"} />
                     <Image width={2048} height={2048} alt={"logo"} className={"w-56 h-56 rounded-full z-10"} src={"/logo.webp"} priority />
