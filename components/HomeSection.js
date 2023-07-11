@@ -63,15 +63,15 @@ export default function HomeSection() {
             </div>
 
             <div/>
-                <div className={"select-none absolute scale-50 xl:scale-100 right-0"}>
+                <div className={"select-none absolute scale-50 md:scale-75 xl:scale-100 right-0"}>
                 <div className={"select-none rotating border-[#452277] -right-[100px] -top-[100px] absolute w-[200px] h-[200px] border-2 border-dashed rounded-full"}/>
                 <div className={"select-none rrotating border-[#9061d1] -right-[150px] -top-[150px] absolute w-[300px] h-[300px] border-2 border-dashed rounded-full"}/>
             </div>
 
-            <div className={"absolute bg-[#27183b] h-56 w-56 rounded-full blur-2xl opacity-40"} />
-            <div className={"absolute bg-[#27183b] translate-x-40 translate-y-20 h-56 w-56 rounded-full blur-2xl opacity-40"} />
+            <div className={"absolute top-0 left-0 bg-[#27183b] h-56 w-56 rounded-full blur-2xl opacity-40 scale-50 md:scale-75 xl:scale-100"} />
+            <div className={"absolute top-0 left-0 bg-[#27183b] translate-x-40 translate-y-20 h-56 w-56 rounded-full blur-2xl opacity-40 scale-50 md:scale-75 xl:scale-100"} />
 
-            <div className={"relative"}>
+            <div className={"relative scale-50 md:scale-75 xl:scale-100"}>
                 <div className={"absolute bg-[#27183b] h-56 w-56 rounded-full blur-2xl opacity-30 right-10 bottom-0 z-10"} />
                 <div className={"absolute bg-[#27183b] -translate-y-20 h-56 w-56 rounded-full blur-2xl opacity-30 right-10 bottom-0 z-10"} />
                 <div className={"absolute translate-x-40 translate-y-10 bg-[#27183b] h-56 w-56 rounded-full blur-2xl opacity-30 right-10 bottom-0 z-10"} />
