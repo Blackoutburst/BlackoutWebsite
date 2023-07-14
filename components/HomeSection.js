@@ -50,7 +50,6 @@ export default function HomeSection() {
                         <Image width={0} height={0} alt={"youtube logo"} className={"w-8 h-8 select-none cursor-pointer z-50"} src={"/youtube-logo.svg"}/>
                     </a>
                     <Image width={0} height={0} alt={"linkedin logo"} className={"w-8 h-8 select-none cursor-not-allowed z-50"} src={"/linkedin-logo.svg"}/>
-
                 </div>
             </div>
 

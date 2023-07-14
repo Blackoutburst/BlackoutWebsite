@@ -1,6 +1,8 @@
 import HomeSection from "@/components/HomeSection"
 import AboutMeSection from "@/components/AboutMeSection"
 import TechnoSections from "@/components/TechnoSections"
+import ProjectsSections from "@/components/ProjectsSections"
+import SocialsSections from "@/components/SocialsSection"
 
 export default function Home() {
     return (
@@ -12,6 +14,8 @@ export default function Home() {
                 </div>
                 <AboutMeSection/>
                 <TechnoSections/>
+                <ProjectsSections/>
+                <SocialsSections/>
             </div>
         </main>
     )
