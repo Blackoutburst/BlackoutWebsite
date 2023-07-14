@@ -41,15 +41,15 @@ export default function HomeSection() {
                 </p>
                 <div className={"flex gap-6 sm:gap-10 sm:mx-10 z-50"}>
                     <Tooltip message="blackoutburst">
-                        <Image width={0} height={0} alt={"discord logo"} className={"w-8 h-8 select-none cursor-help z-50"} src={"/discord-logo.svg"}/>
+                        <Image width={0} height={0} alt={"discord logo"} className={"w-6 h-6 sm:w-8 sm:h-8 select-none cursor-help z-50"} src={"/discord-logo.svg"}/>
                     </Tooltip>
                     <a target="_blank" rel="noopener noreferrer" href="https://github.com/Blackoutburst/" className={"z-50 hover:scale-110 duration-300"}>
-                        <Image width={0} height={0} alt={"github logo"} className={"w-8 h-8 select-none cursor-pointer z-50"} src={"/github-logo.svg"}/>
+                        <Image width={0} height={0} alt={"github logo"} className={"w-6 h-6 sm:w-8 sm:h-8 select-none cursor-pointer z-50"} src={"/github-logo.svg"}/>
                     </a>
                     <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@blackoutburst803/" className={"z-50 hover:scale-110 duration-300"}>
-                        <Image width={0} height={0} alt={"youtube logo"} className={"w-8 h-8 select-none cursor-pointer z-50"} src={"/youtube-logo.svg"}/>
+                        <Image width={0} height={0} alt={"youtube logo"} className={"w-6 h-6 sm:w-8 sm:h-8 select-none cursor-pointer z-50"} src={"/youtube-logo.svg"}/>
                     </a>
-                    <Image width={0} height={0} alt={"linkedin logo"} className={"w-8 h-8 select-none cursor-not-allowed z-50"} src={"/linkedin-logo.svg"}/>
+                    <Image width={0} height={0} alt={"linkedin logo"} className={"w-6 h-6 sm:w-8 sm:h-8 select-none cursor-not-allowed z-50"} src={"/linkedin-logo.svg"}/>
                 </div>
             </div>
 
