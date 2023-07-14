@@ -88,8 +88,8 @@ export default function ProjectsSections() {
             </div>
 
             <div className={"select-none absolute scale-50 md:scale-75 xl:scale-100 right-0 bottom-0 -z-10"}>
-                <div className={"select-none rotating border-[#452277] -left-[100px] -bottom-[250px] absolute w-[200px] h-[200px] border-2 border-dashed rounded-full z-0"}/>
-                <div className={"select-none rrotating border-[#9061d1] -left-[150px] -bottom-[300px] absolute w-[300px] h-[300px] border-2 border-dashed rounded-full z-0"}/>
+                <div className={"select-none rotating border-[#452277] -left-[100px] -bottom-[400px] md:-bottom-[300px] xl:-bottom-[250px] absolute w-[200px] h-[200px] border-2 border-dashed rounded-full z-0"}/>
+                <div className={"select-none rrotating border-[#9061d1] -left-[150px] -bottom-[450px] md:-bottom-[350px] xl:-bottom-[300px] absolute w-[300px] h-[300px] border-2 border-dashed rounded-full z-0"}/>
             </div>
         </div>
     )
