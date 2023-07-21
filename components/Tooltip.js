@@ -9,5 +9,5 @@ export const Tooltip = ({ message, children }) => {
                 <div className="w-3 h-3 -mt-2 rotate-45 bg-purple-950"></div>
             </div>
         </div>
-    );
-};
+    )
+}
