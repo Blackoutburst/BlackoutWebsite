@@ -16,7 +16,9 @@ export default function SocialsSections() {
                     <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@blackoutburst803/" className={"z-50 hover:scale-110 duration-300"}>
                         <Image width={0} height={0} alt={"youtube logo"} className={"w-8 h-8 select-none cursor-pointer z-50"} src={"/youtube-logo.svg"}/>
                     </a>
-                    <Image width={0} height={0} alt={"linkedin logo"} className={"w-8 h-8 select-none cursor-not-allowed z-50"} src={"/linkedin-logo.svg"}/>
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/florian-chanson-92bb90284/" className={"z-50 hover:scale-110 duration-300"}>
+                        <Image width={0} height={0} alt={"linkedin logo"} className={"w-8 h-8 select-none cursor-pointer z-50"} src={"/linkedin-logo.svg"}/>
+                    </a>
                 </div>
             </div>
             <span className={"text-xs sm:text-base w-full self-center justify-self-center text-center bg-clip-text text-transparent bg-gradient-to-r from-[#452277] to-[#9061d1]"}>
