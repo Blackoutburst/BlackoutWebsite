@@ -45,7 +45,7 @@ export default function AboutMeSection() {
                         <div className={"boutme-border"}>
                             <div className={"boutme"}>
                                 <h3>Email</h3>
-                                <span className={"text-white font-thin"}>f.chanson@barbablanka.com</span>
+                                <span className={"text-white font-thin"}>me@blackoutburst.com</span>
                             </div>
                         </div>
                     </a>
