@@ -36,8 +36,8 @@ export default function HomeSection() {
 
                 <p className={"scale-[60%] m-2 sm:scale-100 sm:m-10 z-50 whitespace-nowrap -translate-y-10 xl:translate-y-0"}>
                     A French developer specialized in JVM technologies<br/>Currently working at&nbsp;
-                    <a target="_blank" rel="noopener noreferrer" href="https://www.barbablanka.com/" className={"text-[#f59ad2] font-bold"}>Barbablanka</a>&nbsp;
-                    on Web/Android projects.
+                    <a target="_blank" rel="noopener noreferrer" href="https://primal.tech/" className={"text-[#042de0] font-bold"}>Primal</a>&nbsp;
+                    on Android projects.
                 </p>
                 <div className={"flex gap-6 sm:gap-10 sm:mx-10 z-50"}>
                     <Tooltip message="blackoutburst">
