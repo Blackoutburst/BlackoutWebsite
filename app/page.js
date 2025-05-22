@@ -11,7 +11,7 @@ export default function Home() {
                 alt="background"
                 className="top-0 left-0 absolute -z-50 w-screen h-screen object-cover opacity-70 overflow-hidden max-w-screen max-h-screen"
             />
-            <div className="flex flex-col w-full justify-center items-center gap-6 m-4 mt-8 overflow-hidden max-w-screen max-h-screen">
+            <div className="flex flex-col w-full justify-center items-center gap-6 p-4 pt-8 overflow-hidden max-w-screen max-h-screen">
                 <h1>
                     BLACKOUTBURST
                 </h1>
