@@ -3,7 +3,7 @@ import Image from "next/image"
 
 export default function Home() {
     return (
-        <main className="flex w-full justify-center items-center w-full mt-8">
+        <main className="flex w-full justify-center items-center w-full">
             <Image
                 width={0} 
                 height={0}
@@ -11,7 +11,7 @@ export default function Home() {
                 alt="background"
                 className="absolute -z-50 w-screen h-screen object-cover opacity-70"
             />
-            <div className="flex flex-col justify-center items-center gap-6 m-4">
+            <div className="flex flex-col justify-center items-center gap-6 m-4 mt-8">
                 <h1>
                     BLACKOUTBURST
                 </h1>
