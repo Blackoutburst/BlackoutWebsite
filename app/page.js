@@ -1,7 +1,21 @@
+"use client"
 import Image from "next/image"
+import { useEffect, useState } from "react"
 
 
 export default function Home() {
+    const [vh, setVh] = useState(0)
+    
+    useEffect(() => {
+        const handleResize = () => {
+            setVh(window.innerHeight)
+        }
+        
+        handleResize()
+        window.addEventListener("resize", handleResize)
+        return () => window.removeEventListener("resize", handleResize)
+    }, [])
+    
     return (
         <main className="overflow-hidden max-w-screen max-h-screen">
             <Image
@@ -9,7 +23,8 @@ export default function Home() {
                 height={0}
                 src="/bg.svg"
                 alt="background"
-                className="top-0 left-0 absolute -z-50 w-screen h-screen object-cover opacity-70 overflow-hidden max-w-screen max-h-screen"
+                className="absolute top-0 left-0 -z-50 w-screen object-cover opacity-70"
+                style={{ height: vh }}
             />
             <div className="flex flex-col w-full justify-center items-center gap-6 p-4 pt-8 overflow-hidden max-w-screen max-h-screen">
                 <h1>
