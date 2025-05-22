@@ -3,7 +3,7 @@ import Image from "next/image"
 
 export default function Home() {
     return (
-        <main className="flex w-full justify-center items-center w-screen h-screen">
+        <main className="flex w-full justify-center items-center w-full mt-8">
             <Image
                 width={0} 
                 height={0}
@@ -19,7 +19,7 @@ export default function Home() {
                     About
                 </h2>
                 <p className="text-center">
-                    I&apos;m a developer with strong ability in the JVM ecosystem<br/>
+                    I&apos;m a developer with strong abilities in the JVM ecosystem<br/>
                     When I&apos;m not working I usually play video games<br/>
                     Currently working at <a href="https://primal.tech/">Primal</a> as Android dev
                 </p>
@@ -27,7 +27,7 @@ export default function Home() {
                     Contact
                 </h2>
                 <p>
-                    If for some reaons you need/want to contact me:<br/>
+                    If for some reasons you need/want to contact me:<br/>
                     - <a target="_blank" rel="noopener noreferrer" href="https://discord.com/">Discord</a>: blackoutburst (fast reply)<br/>
                     - <a target="_blank" rel="noopener noreferrer" href="mailto:me@blackoutburst.com">E-Mail</a>: me@blackoutburst.com (slow reply)
                 </p>
