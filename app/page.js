@@ -9,7 +9,7 @@ export default function Home() {
                 height={0}
                 src="/bg.svg"
                 alt="background"
-                className="absolute -z-50 w-full h-full object-cover opacity-70"
+                className="absolute -z-50 w-screen h-screen object-cover opacity-70"
             />
             <div className="flex flex-col justify-center items-center gap-6 m-4">
                 <h1>
