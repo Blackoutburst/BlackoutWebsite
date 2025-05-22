@@ -3,7 +3,7 @@ import Image from "next/image"
 
 export default function Home() {
     return (
-        <>
+        <main>
             <Image
                 width={0} 
                 height={0}
@@ -11,7 +11,7 @@ export default function Home() {
                 alt="background"
                 className="top-0 left-0 absolute -z-50 w-screen h-screen object-cover opacity-70 overflow-hidden max-w-screen max-h-screen"
             />
-            <main className="flex flex-col w-full justify-center items-center gap-6 m-4 mt-8 overflow-hidden max-w-screen max-h-screen">
+            <div className="flex flex-col w-full justify-center items-center gap-6 m-4 mt-8 overflow-hidden max-w-screen max-h-screen">
                 <h1>
                     BLACKOUTBURST
                 </h1>
@@ -43,7 +43,7 @@ export default function Home() {
                     </a>
                 </div>
                 <Image width={256} height={256} alt={"pic"} className={"pic select-none cursor-pointer z-50"} src={"/pp.webp"}/>
-            </main>
-        </>
+            </div>
+        </main>
     )
 }
