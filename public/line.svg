@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 800 400">
-    <path d="M478.475341796875,78.02690887451172C399.25261942545575,154.85799662272137,320.02989705403644,231.68908437093097,240.8071746826172,308.5201721191406" fill="none" stroke-width="3" stroke="url(&quot;#SvgjsLinearGradient1001&quot;)" stroke-linecap="butt" stroke-dasharray="0 0" transform="matrix(1,0,0,1,40.35874176025385,6.726463317871094)"></path>
-    <defs>
-        <linearGradient id="SvgjsLinearGradient1001">
-            <stop stop-color="hsl(270, 73%, 53%)" offset="0"></stop>
-            <stop stop-color="hsl(162, 100%, 58%)" offset="1"></stop>
-        </linearGradient>
-    </defs>
-</svg>
