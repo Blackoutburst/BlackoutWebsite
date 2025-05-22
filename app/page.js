@@ -9,9 +9,9 @@ export default function Home() {
                 height={0}
                 src="/bg.svg"
                 alt="background"
-                className="absolute -z-50 w-screen h-screen object-cover opacity-70 overflow-hidden"
+                className="top-0 left-0 absolute -z-50 w-screen h-screen object-cover opacity-70 overflow-hidden max-w-screen max-h-screen"
             />
-            <main className="flex flex-col w-full justify-center items-center gap-6 m-4 mt-8 overflow-hidden">
+            <main className="flex flex-col w-full justify-center items-center gap-6 m-4 mt-8 overflow-hidden max-w-screen max-h-screen">
                 <h1>
                     BLACKOUTBURST
                 </h1>
