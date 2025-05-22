@@ -3,7 +3,7 @@ import Image from "next/image"
 
 export default function Home() {
     return (
-        <main>
+        <main className="overflow-hidden max-w-screen max-h-screen">
             <Image
                 width={0} 
                 height={0}
