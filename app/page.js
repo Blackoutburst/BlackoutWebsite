@@ -10,7 +10,7 @@ export default function Home() {
                 alt={"background"}
                 src="/bg.svg"
                 alt="Background"
-                className="absolute w-full h-full object-cover opacity-70"
+                className="absolute -z-50 w-full h-full object-cover opacity-70"
             />
             <div className="flex flex-col justify-center items-center gap-6 m-4">
                 <h1>
