@@ -26,7 +26,10 @@ export default function Home() {
                 className="absolute top-0 left-0 -z-50 w-screen object-cover opacity-70"
                 style={{ height: vh }}
             />
-            <div className="flex flex-col w-full justify-center items-center gap-6 p-4 pt-8 overflow-hidden max-w-screen max-h-screen">
+            <div 
+                className="flex flex-col w-full justify-center items-center gap-6 p-4 pt-8 overflow-hidden max-w-screen max-h-screen"
+                style={{ height: vh }}
+            >
                 <h1>
                     BLACKOUTBURST
                 </h1>
