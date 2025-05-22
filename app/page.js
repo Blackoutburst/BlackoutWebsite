@@ -7,9 +7,8 @@ export default function Home() {
             <Image
                 width={0} 
                 height={0}
-                alt={"background"}
                 src="/bg.svg"
-                alt="Background"
+                alt="background"
                 className="absolute -z-50 w-full h-full object-cover opacity-70"
             />
             <div className="flex flex-col justify-center items-center gap-6 m-4">
@@ -20,7 +19,7 @@ export default function Home() {
                     About
                 </h2>
                 <p className="text-center">
-                    I&apos;m a developer with strong ability in the JVM ecosystem<br/>
+                    I&apos;`m a developer with strong ability in the JVM ecosystem<br/>
                     When I&apos;m not working I usually play video games<br/>
                     Currently working at <a href="https://primal.tech/">Primal</a> as Android dev
                 </p>
