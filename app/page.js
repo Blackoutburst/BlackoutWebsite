@@ -17,7 +17,7 @@ export default function Home() {
     }, [])
     
     return (
-        <main className="overflow-hidden max-w-screen max-h-screen">
+        <main>
             <Image
                 width={0} 
                 height={0}
