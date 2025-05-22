@@ -19,7 +19,7 @@ export default function Home() {
                     About
                 </h2>
                 <p className="text-center">
-                    I&apos;`m a developer with strong ability in the JVM ecosystem<br/>
+                    I&apos;m a developer with strong ability in the JVM ecosystem<br/>
                     When I&apos;m not working I usually play video games<br/>
                     Currently working at <a href="https://primal.tech/">Primal</a> as Android dev
                 </p>
