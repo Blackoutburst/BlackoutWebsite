@@ -33,9 +33,6 @@ export default function Home() {
                 <h1>
                     BLACKOUTBURST
                 </h1>
-                <h2>
-                    About
-                </h2>
                 <p className="text-center">
                     I&apos;m a developer with strong abilities in the JVM ecosystem<br/>
                     When I&apos;m not working I usually play video games<br/>
