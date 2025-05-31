@@ -41,17 +41,11 @@ export default function Home() {
                     When I&apos;m not working I usually play video games<br/>
                     Currently working at <a href="https://primal.tech/">Primal</a> as Android dev
                 </p>
-                <h2>
-                    Contact
-                </h2>
                 <p>
                     If for some reasons you need/want to contact me:<br/>
                     - <a target="_blank" rel="noopener noreferrer" href="https://discord.com/">Discord</a>: blackoutburst (fast reply)<br/>
                     - <a target="_blank" rel="noopener noreferrer" href="mailto:me@blackoutburst.com">E-Mail</a>: me@blackoutburst.com (slow reply)
                 </p>
-                <h2>
-                    Links
-                </h2>
                 <div className="flex justify-center items-center gap-4">
                     <a target="_blank" rel="noopener noreferrer" href="https://github.com/Blackoutburst/" className={"z-50 hover:scale-110 duration-300"}>
                         <Image width={0} height={0} alt={"github logo"} className={"icons select-none cursor-pointer z-50"} src={"/github-logo.svg"}/>
