@@ -23,7 +23,7 @@ export default function Home() {
                 height={0}
                 src="/bg.svg"
                 alt="background"
-                className="absolute top-0 left-0 -z-50 w-screen object-cover opacity-70"
+                className="absolute top-0 left-0 -z-50 w-screen object-cover opacity-70 select-none"
                 style={{ height: vh }}
             />
             <div 
