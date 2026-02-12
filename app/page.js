@@ -41,7 +41,7 @@ export default function Home() {
                 <p>
                     If for some reasons you need/want to contact me:<br/>
                     - <a target="_blank" rel="noopener noreferrer" href="https://discord.com/">Discord</a>: blackoutburst (fast reply)<br/>
-                    - <a target="_blank" rel="noopener noreferrer" href="mailto:me@blackoutburst.com">E-Mail</a>: me@blackoutburst.com (slow reply)
+                    - <a target="_blank" rel="noopener noreferrer" href="mailto:me@blackoutburst.dev">E-Mail</a>: me@blackoutburst.dev (slow reply)
                 </p>
                 <div className="flex justify-center items-center gap-4">
                     <a target="_blank" rel="noopener noreferrer" href="https://github.com/Blackoutburst/" className={"z-50 hover:scale-110 duration-300"}>
