@@ -35,13 +35,13 @@ export default function Home() {
                 </h1>
                 <p className="text-center">
                     I&apos;m a developer with strong abilities in the JVM ecosystem<br/>
-                    When I&apos;m not working I usually play video games<br/>
-                    Currently working at <a href="https://primal.tech/">Primal</a> as Android dev
+                    I do random projects in JS/C/Java/Kotlin<br/>
+                    Currently working at <a href="https://primal.tech/">Primal</a> as Android OS (AOSP ROM) dev
                 </p>
                 <p>
                     If for some reasons you need/want to contact me:<br/>
-                    - <a target="_blank" rel="noopener noreferrer" href="https://discord.com/">Discord</a>: blackoutburst (fast reply)<br/>
-                    - <a target="_blank" rel="noopener noreferrer" href="mailto:me@blackoutburst.dev">E-Mail</a>: me@blackoutburst.dev (slow reply)
+                    - <a target="_blank" rel="noopener noreferrer" href="https://discord.com/">Discord</a>: blackoutburst<br/>
+                    - <a target="_blank" rel="noopener noreferrer" href="mailto:me@blackoutburst.dev">E-Mail</a>: me@blackoutburst.dev
                 </p>
                 <div className="flex justify-center items-center gap-4">
                     <a target="_blank" rel="noopener noreferrer" href="https://github.com/Blackoutburst/" className={"z-50 hover:scale-110 duration-300"}>
